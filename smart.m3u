@@ -624,20 +624,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Музыка",Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 group-title="Взрослые",Barely legal TV
-http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
-#EXTINF:-1 group-title="Взрослые",Playboy TV
-http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
-#EXTINF:-1 group-title="Взрослые",Русская ночь HD
-http://188.113.190.12/318/video.m3u8
-#EXTINF:-1 group-title="Взрослые",Blue Hustler HD
-http://188.113.190.12/319/video.m3u8
-#EXTINF:-1 group-title="Взрослые",Blue Hustler
-http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
-#EXTINF:-1 group-title="Взрослые",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Взрослые",O-la-la
-http://193.33.240.8:8080/o-la-la/index.m3u8
 
 #EXTINF:-1 group-title="Региональные",Башкортостан 24
 http://live.gtrk.tv/hls/b24-hls.m3u8
