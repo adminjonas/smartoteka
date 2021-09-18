@@ -122,6 +122,12 @@ https://185-106-121-101.livesports24.online/setantaplusru.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол
 https://185-107-80-245.livesports24.online/footballrus.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 1 HD
+https://srv08.varcdn1.ru/ua1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 2 HD
+https://srv08.varcdn1.ru/ua2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 3 HD
+https://srv08.varcdn1.ru/ua3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Qazsport
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 group-title="Спорт",Turkmenistan Sport
