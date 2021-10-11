@@ -195,9 +195,6 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.
 #EXTINF:-1 ,Russian Extreme Ultra HD
 #EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Eurosport 
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
@@ -207,6 +204,9 @@ https://s91412.cdn.ngenix.net/mdrm/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,Наша Сибирь 
 #EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8?version=2
+#EXTINF:-1 ,Eurosport 
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,Eurosport HD
 #EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
