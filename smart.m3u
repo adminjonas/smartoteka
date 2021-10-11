@@ -1,5 +1,226 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
+#EXTINF:-1 ,Россия 1
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_2/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_4/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_7/variant.m3u8?version=2
+#EXTINF:-1 ,Россия К
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK/variant.m3u8?version=2
+#EXTINF:-1 ,Россия К (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_2/variant.m3u8?version=2
+#EXTINF:-1 ,Россия К (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_4/variant.m3u8?version=2
+#EXTINF:-1 ,Россия К (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_7/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 24
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8?version=2
+#EXTINF:-1 ,НТВ
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1 ,НТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8?version=2
+#EXTINF:-1 ,НТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_NTV_4/variant.m3u8?version=2
+#EXTINF:-1 ,НТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8?version=2
+#EXTINF:-1 ,РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8?version=2
+#EXTINF:-1 ,РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_4/variant.m3u8?version=2
+#EXTINF:-1 ,РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_7/variant.m3u8?version=2
+#EXTINF:-1 ,Мир
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1 ,Мир (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_MIR_2/variant.m3u8?version=2
+#EXTINF:-1 ,Мир (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_MIR_4/variant.m3u8?version=2
+#EXTINF:-1 ,Мир (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_MIR_7/variant.m3u8?version=2
+#EXTINF:-1 ,ТВ Центр
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1 ,ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_TVC_2/variant.m3u8?version=2
+#EXTINF:-1 ,ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_TVC_4/variant.m3u8?version=2
+#EXTINF:-1 ,ТВ Центр (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8?version=2
+#EXTINF:-1 ,Звезда
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1 ,Звезда (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_2/variant.m3u8?version=2
+#EXTINF:-1 ,Звезда (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_4/variant.m3u8?version=2
+#EXTINF:-1 ,Звезда (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_7/variant.m3u8?version=2
+#EXTINF:-1 ,ОТР
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_OTR/variant.m3u8?version=2
+#EXTINF:-1 ,СТС
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8?version=2
+#EXTINF:-1 ,СТС (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_STS_2/variant.m3u8?version=2
+#EXTINF:-1 ,СТС (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_STS_4/variant.m3u8?version=2
+#EXTINF:-1 ,СТС (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_STS_7/variant.m3u8?version=2
+#EXTINF:-1 ,СТС Love
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE/variant.m3u8?version=2
+#EXTINF:-1 ,СТС Love (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_2/variant.m3u8?version=2
+#EXTINF:-1 ,СТС Love (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_7/variant.m3u8?version=2
+#EXTINF:-1 ,Домашний
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY/variant.m3u8?version=2
+#EXTINF:-1 ,Домашний (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_2/variant.m3u8?version=2
+#EXTINF:-1 ,Домашний (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY_4/variant.m3u8?version=2
+#EXTINF:-1 ,Домашний (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_7/variant.m3u8?version=2
+#EXTINF:-1 ,Че!
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1 ,Че! (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_CHE_2/variant.m3u8?version=2
+#EXTINF:-1 ,Че! (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8?version=2
+#EXTINF:-1 ,Че! (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF:-1 ,Карусель
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1 ,Карусель (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_2/variant.m3u8?version=2
+#EXTINF:-1 ,Карусель (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_4/variant.m3u8?version=2
+#EXTINF:-1 ,Карусель (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_7/variant.m3u8?version=2
+#EXTINF:-1 ,Канал Disney
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1 ,Канал Disney (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_2/variant.m3u8?version=2
+#EXTINF:-1 ,Канал Disney (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_4/variant.m3u8?version=2
+#EXTINF:-1 ,Канал Disney (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_7/variant.m3u8?version=2
+#EXTINF:-1 ,Муз ТВ
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1 ,Муз ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_2/variant.m3u8?version=2
+#EXTINF:-1 ,Муз ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_4/variant.m3u8?version=2
+#EXTINF:-1 ,Муз ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_7/variant.m3u8?version=2
+#EXTINF:-1 ,Ю
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_U/variant.m3u8?version=2
+#EXTINF:-1 ,Ю (+2)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_U_2/variant.m3u8?version=2
+#EXTINF:-1 ,Ю (+4)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_U_4/variant.m3u8?version=2
+#EXTINF:-1 ,Ю (+7)
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_U_7/variant.m3u8?version=2
+#EXTINF:-1 ,Спас
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1 ,Всё ТВ
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_VSETVHD_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,Russian Extreme HD
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 ,Russian Extreme Ultra HD
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,Eurosport 
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,Love Nature 
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,Наша Сибирь 
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8?version=2
+#EXTINF:-1 ,Eurosport HD
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 ,Ultra HD Cinema HD
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 ,Love Nature HD
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 ,Наша Сибирь HD
+#EXTVLCOPT:http-user-agent=WINK111
+https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8?version=2
+
+
 #EXTINF:-1 group-title="Кино",Amedia 1 HD
 http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино",VIP Premiere
