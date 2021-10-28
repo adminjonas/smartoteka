@@ -221,8 +221,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?ve
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8?version=2
 
 
-#EXTINF:-1 group-title="Кино",Amedia 1 HD
-http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+
 #EXTINF:-1 group-title="Кино",VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1 group-title="Кино",VIP Megahit
@@ -272,8 +271,7 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="Кино",Премьера
 https://autopilot.catcast.tv/content/39161/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные",National Geographic HD
-http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
+
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
@@ -282,8 +280,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Ocean TV
-http://91.192.168.242:9091
 #EXTINF:-1 group-title="Познавательные",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="Познавательные",Здоровье
@@ -294,16 +290,13 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 http://212.76.29.27/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные",ОНТ
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 group-title="Познавательные",Тайна
-http://37.17.14.149:8912/play/a00m
 #EXTINF:-1 group-title="Познавательные",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Canal+ Motor
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Конный мир
 http://83.222.205.10:38080/konnyimir/index.m3u8
-#EXTINF:-1 group-title="Познавательные",HD Life HD
-http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
+
 
 #EXTINF:-1 group-title="Россия",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -319,8 +312,6 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",360°
 http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="Россия",RTVi
-http://46.34.209.243:80/btv/SWM/RTVi/RTVi_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Россия",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Вместе РФ
@@ -330,25 +321,11 @@ http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик HD
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
-#EXTINF:-1 group-title="Детские",В гостях у сказки
-http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
 
-#EXTINF:-1 group-title="Спорт",Setanta Sports Ukraine HD
-https://95-213-224-183.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1 HD
-https://185-106-121-101.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
-https://185-106-121-101.livesports24.online/setantaplusru.m3u8
+
+
 #EXTINF:-1 group-title="Спорт",Спортивный HD
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол
-https://185-107-80-245.livesports24.online/footballrus.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол 1 HD
-https://srv08.varcdn1.ru/ua1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол 2 HD
-https://srv08.varcdn1.ru/ua2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол 3 HD
-https://srv08.varcdn1.ru/ua3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Qazsport
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 group-title="Спорт",Turkmenistan Sport
@@ -371,8 +348,7 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 http://s3.smashmalta.com:82/live/smash/smash/17.ts
 #EXTINF:-1 group-title="Спорт",Canal+ Sport HD
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sport 1
-http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -448,8 +424,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Zerouno TV
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",CodeFashion
-http://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Smash Music
 http://a3.smashmalta.com:82/live/smash/smash/8.ts
 #EXTINF:-1 group-title="Музыка",V2Beat HD
