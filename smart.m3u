@@ -204,10 +204,10 @@ https://s91412.cdn.ngenix.net/mdrm/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,Наша Сибирь 
 #EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8?version=2
-#EXTINF:-1 ,Eurosport 
+#EXTINF:-1 ,Eurosport 1 
 #EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Eurosport HD
+#EXTINF:-1 ,Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1 ,Ultra HD Cinema HD
