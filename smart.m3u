@@ -1,280 +1,131 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 ,Россия 1
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8?version=2
 #EXTINF:-1 ,Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_2/variant.m3u8?version=2
 #EXTINF:-1 ,Россия 1 (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_4/variant.m3u8?version=2
 #EXTINF:-1 ,Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_7/variant.m3u8?version=2
 #EXTINF:-1 ,Россия К
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK/variant.m3u8?version=2
 #EXTINF:-1 ,Россия К (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_2/variant.m3u8?version=2
 #EXTINF:-1 ,Россия К (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_4/variant.m3u8?version=2
 #EXTINF:-1 ,Россия К (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_7/variant.m3u8?version=2
 #EXTINF:-1 ,Россия 24
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_4/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8?version=2
-#EXTINF:-1 ,РЕН ТВ
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,РЕН ТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 ,РЕН ТВ (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_4/variant.m3u8?version=2
 #EXTINF:-1 ,РЕН ТВ (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 ,Мир
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8?version=2
 #EXTINF:-1 ,Мир (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_2/variant.m3u8?version=2
 #EXTINF:-1 ,Мир (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_4/variant.m3u8?version=2
 #EXTINF:-1 ,Мир (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR_7/variant.m3u8?version=2
 #EXTINF:-1 ,ТВ Центр
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC/variant.m3u8?version=2
 #EXTINF:-1 ,ТВ Центр (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_2/variant.m3u8?version=2
 #EXTINF:-1 ,ТВ Центр (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_4/variant.m3u8?version=2
 #EXTINF:-1 ,ТВ Центр (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8?version=2
 #EXTINF:-1 ,Звезда
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA/variant.m3u8?version=2
 #EXTINF:-1 ,Звезда (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_2/variant.m3u8?version=2
 #EXTINF:-1 ,Звезда (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_4/variant.m3u8?version=2
 #EXTINF:-1 ,Звезда (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_7/variant.m3u8?version=2
 #EXTINF:-1 ,ОТР
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_OTR/variant.m3u8?version=2
 #EXTINF:-1 ,СТС
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8?version=2
 #EXTINF:-1 ,СТС (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_STS_2/variant.m3u8?version=2
 #EXTINF:-1 ,СТС (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_STS_4/variant.m3u8?version=2
 #EXTINF:-1 ,СТС (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_STS_7/variant.m3u8?version=2
 #EXTINF:-1 ,СТС Love
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE/variant.m3u8?version=2
 #EXTINF:-1 ,СТС Love (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_2/variant.m3u8?version=2
 #EXTINF:-1 ,СТС Love (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_7/variant.m3u8?version=2
 #EXTINF:-1 ,Домашний
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY/variant.m3u8?version=2
 #EXTINF:-1 ,Домашний (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_2/variant.m3u8?version=2
 #EXTINF:-1 ,Домашний (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY_4/variant.m3u8?version=2
 #EXTINF:-1 ,Домашний (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_7/variant.m3u8?version=2
 #EXTINF:-1 ,Че!
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 ,Че! (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_CHE_2/variant.m3u8?version=2
 #EXTINF:-1 ,Че! (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8?version=2
 #EXTINF:-1 ,Че! (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ_7/variant.m3u8?version=2
 #EXTINF:-1 ,Карусель
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL/variant.m3u8?version=2
 #EXTINF:-1 ,Карусель (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_2/variant.m3u8?version=2
 #EXTINF:-1 ,Карусель (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_4/variant.m3u8?version=2
 #EXTINF:-1 ,Карусель (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_7/variant.m3u8?version=2
 #EXTINF:-1 ,Канал Disney
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/variant.m3u8?version=2
 #EXTINF:-1 ,Канал Disney (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_2/variant.m3u8?version=2
 #EXTINF:-1 ,Канал Disney (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_4/variant.m3u8?version=2
 #EXTINF:-1 ,Канал Disney (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_7/variant.m3u8?version=2
 #EXTINF:-1 ,Муз ТВ
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV/variant.m3u8?version=2
 #EXTINF:-1 ,Муз ТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_2/variant.m3u8?version=2
-#EXTINF:-1 ,Муз ТВ (+4)
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_4/variant.m3u8?version=2
 #EXTINF:-1 ,Муз ТВ (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_7/variant.m3u8?version=2
 #EXTINF:-1 ,Ю
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_U/variant.m3u8?version=2
 #EXTINF:-1 ,Ю (+2)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_U_2/variant.m3u8?version=2
 #EXTINF:-1 ,Ю (+4)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_U_4/variant.m3u8?version=2
 #EXTINF:-1 ,Ю (+7)
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_U_7/variant.m3u8?version=2
 #EXTINF:-1 ,Спас
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_SPAS/variant.m3u8?version=2
-#EXTINF:-1 ,Всё ТВ
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_VSETVHD_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Russian Extreme HD
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 ,Russian Extreme Ultra HD
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Ultra HD Cinema
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Love Nature 
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Наша Сибирь 
-#EXTVLCOPT:http-user-agent=WINK111
+#EXTINF:-1 ,Наша Сибирь
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8?version=2
-#EXTINF:-1 ,Eurosport 1
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Eurosport 1 HD
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 ,Ultra HD Cinema HD
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 ,Love Nature HD
-#EXTVLCOPT:http-user-agent=WINK111
-https://s91412.cdn.ngenix.net/mdrm/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1 ,Наша Сибирь HD
-#EXTVLCOPT:http-user-agent=WINK111
 https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8?version=2
 
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1 HD
-https://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2 HD
-https://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit HD
-https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1016.png",TV1000 HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2168.png",TV1000 Action HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3319.png",TV1000 Русское кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3505.png",VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3520.png",VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3520.png",VIP Comedy
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/2838.png",VIP Serial
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 group-title="Кино",Кино ТВ
-http://31.173.178.110:8004/play/a09u/index.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс
-http://31.173.178.110:8004/play/a08q/index.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание
-http://31.173.178.110:8004/play/a08r/index.m3u8
-#EXTINF:-1 group-title="Кино",Киносемья
-http://31.173.178.110:8004/play/a090/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/799.png",Киносерия
-http://31.173.178.110:8004/play/a08w/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-http://31.173.178.110:8004/play/a08s/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия
-http://31.173.178.110:8004/play/a08t/index.m3u8
-#EXTINF:-1 group-title="Кино",Любимое кино
-http://31.173.178.110:8004/play/a06l/index.m3u8
-#EXTINF:-1 group-title="Кино",Мужское кино
-http://31.173.178.110:8004/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/2275.png",Мир сериала
-http://31.173.178.110:8004/play/a06j/index.m3u8
-#EXTINF:-1 group-title="Кино",Наше новое кино
-http://31.173.178.110:8004/play/a08z/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2517.png",FOX HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
-#EXTINF:-1 group-title="Кино",FOX Life HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино",Sony
-http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
-#EXTINF:-1 group-title="Кино",Sony Sci-Fi
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:-1 group-title="Кино",Sony Turbo
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:-1 group-title="Кино",Феникс Плюс
-https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 #EXTINF:-1 group-title="Кино",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Zee TV
@@ -292,18 +143,6 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/4662.png",BACKUSTV Страшное HD
 http://stream.backustv.ru/live/btv2/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные",National Geographic HD
-http://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic HD
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild FHD
-https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1261.png",Viasat Nature HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1014.png",Viasat Explore HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3236.png",Viasat History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nano TV
@@ -334,15 +173,12 @@ http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/playlist.m3u8
 http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ЛитКлуб ТВ Стихи
 http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",NASA TV
-https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Твое ТВ
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 group-title="Relax Nature",TV Waterfalls HD
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Первый Канал HD
-https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+
 #EXTINF:-1 group-title="Россия",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Россия",Россия 24
@@ -367,12 +203,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Россия",Рен ТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
-#EXTINF:-1 group-title="Россия",CTC HD
-http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
-#EXTINF:-1 group-title="Россия",CTC Love
-http://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1 group-title="Россия",ОНТ HD
 http://86.57.174.73:14002/ont
 #EXTINF:-1 group-title="Россия",Звезда HD
@@ -403,16 +233,6 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
 #EXTINF:-1 group-title="Детские",Уникум
 http://46.174.83.66/Unikum/mpegts
-#EXTINF:-1 group-title="Детские",Канал Disney
-https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
-#EXTINF:-1 group-title="Детские",Baby TV
-http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
-#EXTINF:-1 group-title="Детские",Мультиландия
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
-#EXTINF:-1 group-title="Детские",CTC Kids HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-#EXTINF:-1 group-title="Детские",Baby TV
-https://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
 
 #EXTINF:-1 group-title="Спорт",Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
@@ -612,26 +432,16 @@ http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 http://89.232.125.186/online_tv_Efir/index.m3u8
 #EXTINF:-1 group-title="Региональные",Татарстан 24
 http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
-#EXTINF:-1 group-title="Региональные",Камчатка 1
-http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные",Югран
 http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8
 
-#EXTINF:-1 group-title="Беларусь" tvg-logo="https://iptvx.one/icn/belarus4.png",Беларусь 4
-http://95.46.208.8:26258/belarus4
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://dvb.by/sources/logos/1609.png",Белрос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Беларусь" tvg-logo="https://dvb.by/sources/logos/1609.png",Белрос
 http://uiptv.do.am/1ufc/116316122/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь",Белсат
-http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Беларусь",Белсат HD
-http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ Беларусь
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь",Наше ТВ (Витебск)
 
-http://95.46.208.8:26259/nashe
 #EXTINF:-1 group-title="Латвия",TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="Латвия",TVNET
@@ -662,8 +472,6 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8?checkedby:iptvcat.com
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1 group-title="Азербайджан",ELTV
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
-#EXTINF:-1 group-title="Азербайджан",MEDENIYET TV HD
-http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 #EXTINF:-1 group-title="Азербайджан",AL ZAHRA TV
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Азербайджан",ON4
