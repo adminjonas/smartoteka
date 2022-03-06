@@ -2,21 +2,21 @@
 
 #EXTINF:-1 ,Russia 1
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8?version=2
-#EXTINF:-1 ,Россия 1 (+2)
+#EXTINF:-1 ,Russia 1 (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_2/variant.m3u8?version=2
-#EXTINF:-1 ,Россия 1 (+4)
+#EXTINF:-1 ,Russia 1 (+4)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_4/variant.m3u8?version=2
-#EXTINF:-1 ,Россия 1 (+6)
+#EXTINF:-1 ,Russia 1 (+6)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_7/variant.m3u8?version=2
-#EXTINF:-1 ,Россия К
+#EXTINF:-1 ,Russia К
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK/variant.m3u8?version=2
-#EXTINF:-1 ,Россия К (+2)
+#EXTINF:-1 ,Russia К (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_2/variant.m3u8?version=2
-#EXTINF:-1 ,Россия К (+4)
+#EXTINF:-1 ,Russia К (+4)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_4/variant.m3u8?version=2
-#EXTINF:-1 ,Россия К (+7)
+#EXTINF:-1 ,Russia К (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_7/variant.m3u8?version=2
-#EXTINF:-1 ,Россия 24
+#EXTINF:-1 ,Russia 24
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV/variant.m3u8?version=2
@@ -48,13 +48,13 @@ https://s91412.cdn.ngenix.net/mdrm/CH_TVC_2/variant.m3u8?version=2
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_4/variant.m3u8?version=2
 #EXTINF:-1 ,ТВ Центр (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8?version=2
-#EXTINF:-1 ,Звезда
+#EXTINF:-1 ,Zviezda
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 ,Звезда (+2)
+#EXTINF:-1 ,Zviezda (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_2/variant.m3u8?version=2
-#EXTINF:-1 ,Звезда (+4)
+#EXTINF:-1 ,Zviezda (+4)
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_4/variant.m3u8?version=2
-#EXTINF:-1 ,Звезда (+7)
+#EXTINF:-1 ,Zviezda (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_7/variant.m3u8?version=2
 #EXTINF:-1 ,ОТР
 https://s91412.cdn.ngenix.net/mdrm/CH_OTR/variant.m3u8?version=2
@@ -179,47 +179,47 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Relax Nature",TV Waterfalls HD
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 
-#EXTINF:-1 group-title="Россия",Россия 1 HD
+#EXTINF:-1 group-title="Russia",Russia 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="Россия",Россия 24
+#EXTINF:-1 group-title="Russia",Russia 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия",Россия К
+#EXTINF:-1 group-title="Russia",Russia К
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Россия К
+#EXTINF:-1 group-title="Russia",Russia К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
-#EXTINF:-1 group-title="Россия",Россия РТР
+#EXTINF:-1 group-title="Russia",Russia РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия",РТР Планета
+#EXTINF:-1 group-title="Russia",РТР Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="Россия",Мир 24 HD
+#EXTINF:-1 group-title="Russia",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Мир HD
+#EXTINF:-1 group-title="Russia",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Мир Премиум
+#EXTINF:-1 group-title="Russia",Мир Премиум
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Известия FHD
+#EXTINF:-1 group-title="Russia",Известия FHD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Известия HD
+#EXTINF:-1 group-title="Russia",Известия HD
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Россия",РБК
+#EXTINF:-1 group-title="Russia",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Россия",ОНТ HD
+#EXTINF:-1 group-title="Russia",ОНТ HD
 http://86.57.174.73:14002/ont
-#EXTINF:-1 group-title="Россия",Звезда HD
+#EXTINF:-1 group-title="Russia",Zviezda HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Россия",Настоящее время
+#EXTINF:-1 group-title="Russia",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 group-title="Россия",Вместе РФ
+#EXTINF:-1 group-title="Russia",Вместе РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1 group-title="Россия",8 Канал
+#EXTINF:-1 group-title="Russia",8 Канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 group-title="Россия",8 Канал Европа
+#EXTINF:-1 group-title="Russia",8 Канал Европа
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 group-title="Россия",360°
+#EXTINF:-1 group-title="Russia",360°
 http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="Россия",360°
+#EXTINF:-1 group-title="Russia",360°
 https://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="Россия",Ю
+#EXTINF:-1 group-title="Russia",Ю
 http://46.174.83.66/U/mpegts
 
 #EXTINF:-1 group-title="Новости",Deutsche Welle
