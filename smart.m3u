@@ -1,5 +1,7 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
+#EXTINF:-1 ,Piervyj kanal
+http://91.210.251.19:4866/udp/239.0.1.42:4000
 #EXTINF:-1 ,Piervyj kanal HD
 http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8?ts
 #EXTINF:-1 ,Piervyj kanal HD
@@ -30,6 +32,8 @@ https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8?version=2
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_4/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8?version=2
+#EXTINF:-1 ,РЕН ТВ
+http://91.210.251.19:4866/udp/239.0.1.6:4000
 #EXTINF:-1 ,РЕН ТВ (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 ,РЕН ТВ (+4)
