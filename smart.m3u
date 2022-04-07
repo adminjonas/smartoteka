@@ -26,21 +26,21 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_4/variant.m3u8?version=2
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_7/variant.m3u8?version=2
 #EXTINF:-1 ,Russia 24
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8?version=2
-#EXTINF:-1 ,НТВ
+#EXTINF:-1 ,NTV
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV/variant.m3u8?version=2
-#EXTINF:-1 ,НТВ (+2)
+#EXTINF:-1 ,NTV (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8?version=2
-#EXTINF:-1 ,НТВ (+4)
+#EXTINF:-1 ,NTV (+4)
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_4/variant.m3u8?version=2
-#EXTINF:-1 ,НТВ (+7)
+#EXTINF:-1 ,NTV (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8?version=2
-#EXTINF:-1 ,РЕН ТВ
+#EXTINF:-1 ,REN TV
 http://91.210.251.19:4866/udp/239.0.1.6:4000
-#EXTINF:-1 ,РЕН ТВ (+2)
+#EXTINF:-1 ,REN TV (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8?version=2
-#EXTINF:-1 ,РЕН ТВ (+4)
+#EXTINF:-1 ,REN TV (+4)
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_4/variant.m3u8?version=2
-#EXTINF:-1 ,РЕН ТВ (+7)
+#EXTINF:-1 ,REN TV (+7)
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 ,Мир
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8?version=2
@@ -515,6 +515,8 @@ http://87.248.191.169:80
 http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1 group-title="Молдова",STV HD Комрат
 http://188.138.130.130:8080
+
+
 
 
 
