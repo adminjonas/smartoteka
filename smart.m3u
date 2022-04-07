@@ -227,11 +227,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Russia",Мир Премиум
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Известия FHD
+#EXTINF:-1 group-title="Russia",IZVIESTIJA FHD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Известия HD
+#EXTINF:-1 group-title="Russia",IZVIESTIJA HD
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Russia",РБК
+#EXTINF:-1 group-title="Russia",RBK
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Russia",ОНТ HD
 http://86.57.174.73:14002/ont
@@ -515,6 +515,7 @@ http://87.248.191.169:80
 http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1 group-title="Молдова",STV HD Комрат
 http://188.138.130.130:8080
+
 
 
 
