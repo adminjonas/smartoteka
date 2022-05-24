@@ -3,6 +3,7 @@
 
 #EXTINF:-1 ,Piervyj kanal HD
 http://178.163.88.44:4022/udp/234.0.0.172:2000
+#EXTINF:-1 ,Russia 1
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8?version=2
 #EXTINF:-1 ,Russia 1 (+2)
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_2/variant.m3u8?version=2
