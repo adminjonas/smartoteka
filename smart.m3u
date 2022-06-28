@@ -1,399 +1,675 @@
-#EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://gabbarit.page.link/epg,http://iptvx.one/EPG_LITE" cache=500
 
 
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Solovjov Live
+https://a787200812-s27836.cdn.ngenix.net/hls/solovievlive/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/105/logo_256_1655386697.png",Piervyj kanal
+http://mhd118.iptv2022.com/p/J1XRRrcsLnePiwI4mpN-6A,1655540895/streaming/1kanalott/324/1/index.m3u8
 #EXTINF:-1 ,Piervyj kanal HD
 http://46.174.83.66/1/index.m3u8?em9uYS1pcHR2LnJ1
-#EXTINF:-1 ,Russia 1
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1/variant.m3u8?version=2
-#EXTINF:-1 ,Russia 1 (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_2/variant.m3u8?version=2
-#EXTINF:-1 ,Russia 1 (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_4/variant.m3u8?version=2
-#EXTINF:-1 ,Russia 1 (+6)
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1_7/variant.m3u8?version=2
-#EXTINF:-1 ,Russia К
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK/variant.m3u8?version=2
-#EXTINF:-1 ,Russia К (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_2/variant.m3u8?version=2
-#EXTINF:-1 ,Russia К (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_4/variant.m3u8?version=2
-#EXTINF:-1 ,Russia К (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAK_7/variant.m3u8?version=2
-#EXTINF:-1 ,Russia 24
-https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA24/variant.m3u8?version=2
-#EXTINF:-1 ,NTV
-https://s91412.cdn.ngenix.net/mdrm/CH_NTV/variant.m3u8?version=2
-#EXTINF:-1 ,NTV (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_NTV_2/variant.m3u8?version=2
-#EXTINF:-1 ,NTV (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_NTV_4/variant.m3u8?version=2
-#EXTINF:-1 ,NTV (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_NTV_7/variant.m3u8?version=2
-#EXTINF:-1 ,REN TV
-https://s91412.cdn.ngenix.net/mdrm/CH_RENTV/variant.m3u8
-#EXTINF:-1 ,REN TV (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_2/variant.m3u8?version=2
-#EXTINF:-1 ,REN TV (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_4/variant.m3u8?version=2
-#EXTINF:-1 ,REN TV (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_RENTV_7/variant.m3u8?version=2
-#EXTINF:-1 ,Мир
-https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8?version=2
-#EXTINF:-1 ,Мир (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_MIR_2/variant.m3u8?version=2
-#EXTINF:-1 ,Мир (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_MIR_4/variant.m3u8?version=2
-#EXTINF:-1 ,Мир (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_MIR_7/variant.m3u8?version=2
-#EXTINF:-1 ,ТВ Центр
-https://s91412.cdn.ngenix.net/mdrm/CH_TVC/variant.m3u8?version=2
-#EXTINF:-1 ,ТВ Центр (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_TVC_2/variant.m3u8?version=2
-#EXTINF:-1 ,ТВ Центр (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_TVC_4/variant.m3u8?version=2
-#EXTINF:-1 ,ТВ Центр (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_TVC_7/variant.m3u8?version=2
-#EXTINF:-1 ,Zviezda
-https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 ,Zviezda (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_2/variant.m3u8?version=2
-#EXTINF:-1 ,Zviezda (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_4/variant.m3u8?version=2
-#EXTINF:-1 ,Zviezda (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_ZVEZDA_7/variant.m3u8?version=2
-#EXTINF:-1 ,ОТР
-https://s91412.cdn.ngenix.net/mdrm/CH_OTR/variant.m3u8?version=2
-#EXTINF:-1 ,СТС
-https://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8?version=2
-#EXTINF:-1 ,СТС (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_STS_2/variant.m3u8?version=2
-#EXTINF:-1 ,СТС (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_STS_4/variant.m3u8?version=2
-#EXTINF:-1 ,СТС (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_STS_7/variant.m3u8?version=2
-#EXTINF:-1 ,СТС Love
-https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE/variant.m3u8?version=2
-#EXTINF:-1 ,СТС Love (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_2/variant.m3u8?version=2
-#EXTINF:-1 ,СТС Love (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_STSLOVE_7/variant.m3u8?version=2
-#EXTINF:-1 ,Домашний
-https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY/variant.m3u8?version=2
-#EXTINF:-1 ,Домашний (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_2/variant.m3u8?version=2
-#EXTINF:-1 ,Домашний (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY_4/variant.m3u8?version=2
-#EXTINF:-1 ,Домашний (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNY_7/variant.m3u8?version=2
-#EXTINF:-1 ,Че!
-https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 ,Че! (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_CHE_2/variant.m3u8?version=2
-#EXTINF:-1 ,Че! (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8?version=2
-#EXTINF:-1 ,Че! (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_PERETZ_7/variant.m3u8?version=2
-#EXTINF:-1 ,Карусель
-https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 ,Карусель (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_2/variant.m3u8?version=2
-#EXTINF:-1 ,Карусель (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_4/variant.m3u8?version=2
-#EXTINF:-1 ,Карусель (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL_7/variant.m3u8?version=2
-#EXTINF:-1 ,Канал Disney
-https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/variant.m3u8?version=2
-#EXTINF:-1 ,Канал Disney (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_2/variant.m3u8?version=2
-#EXTINF:-1 ,Канал Disney (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_4/variant.m3u8?version=2
-#EXTINF:-1 ,Канал Disney (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_7/variant.m3u8?version=2
-#EXTINF:-1 ,Муз ТВ
-https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV/variant.m3u8?version=2
-#EXTINF:-1 ,Муз ТВ (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_2/variant.m3u8?version=2
-#EXTINF:-1 ,Муз ТВ (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_MUZTV_7/variant.m3u8?version=2
-#EXTINF:-1 ,Ю
-https://s91412.cdn.ngenix.net/mdrm/CH_U/variant.m3u8?version=2
-#EXTINF:-1 ,Ю (+2)
-https://s91412.cdn.ngenix.net/mdrm/CH_U_2/variant.m3u8?version=2
-#EXTINF:-1 ,Ю (+4)
-https://s91412.cdn.ngenix.net/mdrm/CH_U_4/variant.m3u8?version=2
-#EXTINF:-1 ,Ю (+7)
-https://s91412.cdn.ngenix.net/mdrm/CH_U_7/variant.m3u8?version=2
-#EXTINF:-1 ,Спас
-https://s91412.cdn.ngenix.net/mdrm/CH_SPAS/variant.m3u8?version=2
-#EXTINF:-1 ,Наша Сибирь
-https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/variant.m3u8?version=2
-#EXTINF:-1 ,Наша Сибирь HD
-https://s91412.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K/bw6000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино",Суббота! HD
-https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Русский Иллюзион
-http://86.57.178.105:10823
-#EXTINF:-1 group-title="Кино",Кинолюкс
-http://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 group-title="Кино",Ужастик
-https://v2.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/4770.png",BACKUS TV HD
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/4662.png",BACKUSTV Страшное HD
-http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 group-title="Relax Nature",TV Waterfalls HD
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",WORLD HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Nano TV
-http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Познавательные",Nature Relaxation HD
-https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",ОНТ
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 group-title="Познавательные",Реноме
-http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1 group-title="Познавательные",Министерство идей
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Универ TV
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Твое ТВ
-http://stream-norst.cf:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="Russia",Russia К
-http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Мир Премиум
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Russia",IZVIESTIJA FHD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Russia",IZVIESTIJA HD
-https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Russia",RBK
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Russia",Zviezda HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Russia",Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 group-title="Russia",Вместе РФ
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1 group-title="Russia",8 Канал
-http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 group-title="Russia",8 Канал Европа
-http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 group-title="Russia",Ю
-http://46.174.83.66/U/mpegts
-#EXTINF:-1 group-title="Новости",CGTN Русский
-http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="Новости",Meteonews
-https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 group-title="Детские",Уникум
-http://46.174.83.66/Unikum/mpegts
-#EXTINF:-1 group-title="Спорт",Viasat Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 group-title="Спорт",Спортивный HD
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Turkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Спорт",MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 group-title="Спорт",Red Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8
-#EXTINF:-1 group-title="Спорт",SPORT TV 1 PT
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports 2
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1 group-title="Музыка",Kronehit HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Музыка",Страна FM HD
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
-http://rtmp.one.by:2200
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка",MTV Biggest Pop HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 group-title="Музыка",MTV Block Party HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="Музыка",ТНТ Music HD
-http://83.222.205.65:8080/tntmusic/index.m3u8
-#EXTINF:-1 group-title="Музыка",М1 HD
-http://live.m2.tv/hls2/720/stream.m3u8
-#EXTINF:-1 group-title="Музыка",М2 HD
-http://live.m2.tv/hls3/720/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Музыка",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыка",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыка",Ocko TV
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыка",Ocko Gold
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/MTV Hits UK.png",Hits 360 HD
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",MUSIC PLUS
-http://79.172.214.45:10190/stream.m3u8
-#EXTINF:-1 group-title="Музыка",Muzzik Cafe&Club Serbia
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",MUZZIK HIP-HOP
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Ecnulo
-http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
-#EXTINF:-1 group-title="Музыка",V2BEAT HD
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Zerouno TV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",V2Beat HD
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Xite HD
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 group-title="Музыка",M6Music HD
-http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:-1 group-title="Музыка",TVM3
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Classic Rock HD
-https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Alternative HD
-https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Hot Country HD
-https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Pop Adult HD
-https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Hit List HD
-https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Flashback 70S HD
-https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Remember The 80S HD
-https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Hip-Hop/R&B HD
-https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Soul Storm STORM HD
-https://stirr.ott-channels.stingray.com/134/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Greatest Hits HD
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 group-title="Музыка",Stingray Exitos Del Momento HD
-https://stirr.ott-channels.stingray.com/190/master.m3u8
-#EXTINF:-1 group-title="Региональные",Вечерняя Москва HD
-http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-1 group-title="Региональные",Башкортостан 24
-http://live.gtrk.tv/hls/b24-hls.m3u8
-#EXTINF:-1 group-title="Региональные",12 канал HD
-http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Региональные",Липецкое время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Тюменское время
-http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Енисей HD
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",ОТВ (Одинцово)
-http://185.18.4.16/live/3m/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Миллет
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 group-title="Региональные",Мордовия 24
-https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Щелковское ТВ
-http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 group-title="Региональные",Ветта 24 Пермь
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Арис 24
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Сочи 24 HD
-http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",К16
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",ТВК 24 (Красноярск)
-http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные",Белгород 24 HD
-http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1 group-title="Региональные",Эхо ТВ 24
-http://stream.novouralsk-news.ru/echotv24/live.m3u8
-#EXTINF:-1 group-title="Региональные",Евразия (Орск)
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 group-title="Региональные",Дагестан
-http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Региональные",Ингушетия
-http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Региональные",11 канал (Пенза)
-http://85.234.33.64/stream/c11.m3u8
-#EXTINF:-1 group-title="Региональные",Чайковский ТВ
-http://178.170.233.3:8889/index.m3u8
-#EXTINF:-1 group-title="Региональные",Первый Ярославский HD
-http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Региональные",СТРК Сочи
-http://sochi-strk.ru:2015/STRK/mpegts
-#EXTINF:-1 group-title="Региональные",Саратов 24
-http://saratov24.tv:80/online/playlist.php
-#EXTINF:-1 group-title="Региональные",Аист
-http://141.101.205.134:8080/hls/tvaist.m3u8
-#EXTINF:-1 group-title="Региональные",Астрахань 24
-http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Региональные",10 канал (Новокузнецк)
-http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Кузбасс 1
-http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Эфир ТВ
-http://89.232.125.186/online_tv_Efir/index.m3u8
-#EXTINF:-1 group-title="Региональные",Татарстан 24
-http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
-#EXTINF:-1 group-title="Беларусь" tvg-logo="https://dvb.by/sources/logos/1609.png",Белрос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Беларусь" tvg-logo="https://dvb.by/sources/logos/1609.png",Белрос
-http://uiptv.do.am/1ufc/116316122/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь",СТВ Беларусь
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="Латвия",TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1 group-title="Латвия",TVNET
-https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-#EXTINF:-1 group-title="Армения",H1 International
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Армения",H1
-http://timeshift.arpinet.am/1/index.m3u8
-#EXTINF:-1 group-title="Армения",Amga
-https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Армения",Horizon TV
-http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
-#EXTINF:-1 group-title="Азербайджан",ARB 24
-http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:-1 group-title="Азербайджан",ATV 1
-http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1 group-title="Азербайджан",ATV 2
-http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:-1 group-title="Азербайджан",ATV 4
-http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:-1 group-title="Азербайджан",EL TV
-http://85.132.53.162:1935/live/eltv/chunklist.m3u8
-#EXTINF:-1 group-title="Азербайджан",Salyam
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Азербайджан",BAKU TV
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:-1 group-title="Азербайджан",ELTV
-http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
-#EXTINF:-1 group-title="Азербайджан",AL ZAHRA TV
-http://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 group-title="Азербайджан",ON4
-http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
-#EXTINF:-1 group-title="Молдова",NTS
-http://5.56.77.9:50000
-#EXTINF:-1 group-title="Молдова",ТНТ Exclusiv TV
-http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/115/logo_256_1655391177.png",Russia 1
+http://mhd118.iptv2022.com/p/d-01UluZNAWpb1a0SHVb0Q,1655540895/streaming/rossia1ott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/157/logo_256_1655390359.png",Матч!
+http://mhd118.iptv2022.com/p/nhdvB-f-VToZOZE-bGWhpg,1655540895/streaming/matchott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10100/logo_256_1655385292.png",NTV
+http://mhd118.iptv2022.com/p/4_rPv8PIOLpusYhw2DYY-Q,1655540895/streaming/ntvnn/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/3/logo_256_1655391199.png",Пятый канал
+http://mhd118.iptv2022.com/p/AOeubbbBr3GEwCvT38fffw,1655540895/streaming/5kanalott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/83/logo_256_1655391215.png",Russia К
+http://mhd118.iptv2022.com/p/7uQAw-gv2BrQnDbFN--pDA,1655540895/streaming/rossiak/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/148/logo_256_1655391326.png",Russia 24
+http://mhd118.iptv2022.com/p/onDd1Q4M6viXEb_aTOd4Zg,1655540895/streaming/rossia24nn/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/78/logo_256_1655391637.png",Карусель
+http://mhd118.iptv2022.com/p/-XmsRtW9smWRinuRHol1dQ,1655540895/streaming/karusel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/101/logo_256_1655445073.png",ОТР
+http://mhd118.iptv2022.com/p/u9IL3MRbWMdu5VB5l5E5_Q,1655540895/streaming/otr/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/129/logo_256_1655445000.png",ТВ Центр
+http://mhd118.iptv2022.com/p/l_n53cZCzjd1KBEqCtQniQ,1655540895/streaming/tvc/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/113/logo_256_1655445172.png",REN ТВ
+http://mhd118.iptv2022.com/p/f4yCpeOD5FOxQ72O4AnuNg,1655540895/streaming/rentvott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/124/logo_256_1655445048.png",Спас
+http://mhd118.iptv2022.com/p/lnoftAkMDZH0Qb08S4PtSg,1655540895/streaming/spas/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/126/logo_256_1655445109.png",СТС
+http://mhd118.iptv2022.com/p/3_WT2PMQDESVskgUWR87oQ,1655540895/streaming/stsott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/67/logo_256_1655445200.png",Домашний
+http://mhd118.iptv2022.com/p/My68_72CSuyMbhxO06NmHQ,1655540895/streaming/domashiyott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/130/logo_256_1655445273.png",ТВ-3
+http://mhd118.iptv2022.com/p/EhKccuArT1GG4u-qhpoBdQ,1655540895/streaming/tv3ott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/109/logo_256_1655448739.png",Пятница!
+http://mhd118.iptv2022.com/p/mJ6_KYDlFbCtW0W-gLlh2w,1655540895/streaming/pyatnicaott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/72/logo_256_1655448761.png",Звезда
+http://mhd118.iptv2022.com/p/EbcVczlvNix3KVhHy2iiLw,1655540895/streaming/zvezda/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/88/logo_256_1655448812.png",МИР
+http://mhd118.iptv2022.com/p/yWJi0HLZRH9K9QgtCYoHCA,1655540895/streaming/mirott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/136/logo_256_1655448788.png",ТНТ
+http://mhd118.iptv2022.com/p/BahdH8SLm_Vkma66F9WOmQ,1655540895/streaming/tntott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/93/logo_256_1655386660.png",МУЗ-ТВ
+http://mhd118.iptv2022.com/p/p1fhe9WqW1h0b6gYxGkGfw,1655540895/streaming/muztv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10185/logo_128_1652790001.png",Москва 24
+http://mhd118.iptv2022.com/p/vZb0BMhPaKxdpfkTNGH0TA,1655540898/streaming/moscow24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/135/logo_128_1652790001.png",ТНВ Татарстан
+http://mhd118.iptv2022.com/p/rPNGakov4rFFo5jxVx6Q3A,1655540898/streaming/tnv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/146/logo_256_1655449127.png",Ю
+http://mhd118.iptv2022.com/p/lBLZGdnJOHRTD6FfVymvHQ,1655540895/streaming/channelu/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/77/logo_256_1655449287.png",Канал Disney
+http://mhd118.iptv2022.com/p/W0xTXpnIGHJkb2V1hZcKMQ,1655540895/streaming/disney/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10220/logo_256_1655449233.png",Детский Мир
+http://mhd118.iptv2022.com/p/orDBieiXwOjjUKXRXWT3Mg,1655540895/streaming/detmir/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10062/logo_256_1655452236.png",Красная линия
+http://mhd118.iptv2022.com/p/ouMPKmV0FqehfaEUrSH7hg,1655540895/streaming/redline/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10143/logo_256_1655452209.png",Известия
+http://mhd118.iptv2022.com/p/7GR62CJ7jFI16MXDpGAHdQ,1655540895/streaming/izvestia/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10184/logo_256_1655452177.png",Суббота
+http://mhd118.iptv2022.com/p/VFwRHg3p0-zqEkqFPfzBxg,1655540896/streaming/superott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/45/logo_256_1655452126.png",RU.TV
+http://mhd118.iptv2022.com/p/GjSSZ-bRUgap2UVipkcusA,1655540896/streaming/rutvnn/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/167/logo_256_1655452105.png",Че
+http://mhd118.iptv2022.com/p/VdPKQPYgZUs-ps1A3l_t1g,1655540897/streaming/cheott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/1/logo_256_1655386719.png",2x2
+http://mhd118.iptv2022.com/p/10U0ct8Kow0hgITzEnq7Og,1655540897/streaming/2x2/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/168/logo_256_1655452084.png",ТНТ4
+http://mhd118.iptv2022.com/p/muGvPeO-BeSmywdDXA9IGA,1655540897/streaming/tnt4ott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10259/logo_256_1655452061.png",СТС-Love
+http://mhd118.iptv2022.com/p/ZuiEl9dSN0flP4BqhFugKg,1655540897/streaming/stsloveott/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10140/logo_128_1652790001.png",МИР-24
+http://mhd118.iptv2022.com/p/6NUSsF5oPEtMp2Ue9t_BIQ,1655540895/streaming/mir24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10219/logo_128_1652790001.png",ЕГЭ
+http://mhd118.iptv2022.com/p/O8axKmhTdEfpN9hXDRXPcw,1655540895/streaming/ege/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10133/logo_128_1652790001.png",Вместе-РФ
+http://mhd118.iptv2022.com/p/kuBb9zG04-m6OzI1wtVKDA,1655540895/streaming/vmeste-rf/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10061/logo_128_1652790001.png",RT
+http://mhd118.iptv2022.com/p/v2qH_jLVOurbld2oK8yDog,1655540895/streaming/rt/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10221/logo_128_1652790001.png",Первый Вегетарианский
+http://mhd118.iptv2022.com/p/cSDpEQZrRo090GJn3ws_RQ,1655540895/streaming/firstvegan/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10222/logo_128_1652790001.png",Открытый мир
+http://mhd118.iptv2022.com/p/Amia0C0r9Xfd74AsNhLXMw,1655540895/streaming/openmir/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10223/logo_128_1652790001.png",ЛДПР LIVE
+http://mhd118.iptv2022.com/p/G7o7RfG6V9azVPHpqo6V6A,1655540895/streaming/ldprlive/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10224/logo_128_1652790001.png",ТНОМЕР
+http://mhd118.iptv2022.com/p/pYY28RlGbk8ZoAoNQYCutQ,1655540895/streaming/tnomer/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10069/logo_128_1652790001.png",Vostok
+http://mhd118.iptv2022.com/p/x0f2f4UNmWkM6azj2DNJ5w,1655540895/streaming/tmb/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10074/logo_128_1652790001.png",Калейдоскоп ТВ
+http://mhd118.iptv2022.com/p/2XWtmq2b6FI5cRySIqE1Vw,1655540895/streaming/kaleidoskop/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10081/logo_128_1652790001.png",8 Канал
+http://mhd118.iptv2022.com/p/rj2raPr5aepbeJyJNPQoCw,1655540895/streaming/8kanal/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10388/logo_128_1652790001.png",Дума ТВ
+http://mhd118.iptv2022.com/p/fqHo6GYnowyWKhYNcjRP2Q,1655540895/streaming/dumatv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10141/logo_128_1652790001.png",Ратник
+http://mhd118.iptv2022.com/p/IMV1F-Pq2tRnTUPJE6k_gA,1655540895/streaming/ratnik/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10383/logo_128_1652790001.png",КиноСезон
+http://mhd118.iptv2022.com/p/SX8Pe5A-Dlnr9KMqmPPLWg,1655540896/streaming/kinosezon/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10384/logo_128_1652790001.png",Перпетуум Мобиле
+http://mhd118.iptv2022.com/p/tyOO6-hoaajP4nFSoXybXA,1655540896/streaming/pmobile/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10385/logo_128_1652790001.png",Терра Инкогнита
+http://mhd118.iptv2022.com/p/VJQavhEQR67pZuola-_gnQ,1655540896/streaming/terra/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10386/logo_128_1652790001.png",Неизвестная планета
+http://mhd118.iptv2022.com/p/ncj1uBaTmDGMfsawA3n7xw,1655540896/streaming/np/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10387/logo_128_1652790001.png",Joy cook
+http://mhd118.iptv2022.com/p/JTjlACb_GSC66gteO-oWmQ,1655540896/streaming/joycook/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10168/logo_128_1652790001.png",Крик ТВ
+http://mhd118.iptv2022.com/p/bcyYykZfuHgwr0ad5ByJbw,1655540896/streaming/rictv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10245/logo_128_1652790001.png",RUSSIAN MUSIC BOX
+http://mhd118.iptv2022.com/p/v5JcfAhpR_jy_Qk-lr9kAA,1655540896/streaming/musicbox/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10092/logo_128_1652790001.png",Точка ТВ
+http://mhd118.iptv2022.com/p/mci31CfZfPrpIaES16xG2Q,1655540896/streaming/tochka/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10472/logo_128_1652790001.png",CGTN
+http://mhd118.iptv2022.com/p/XsE1hauIHsk9GEwSXErEog,1655540896/streaming/cgtn/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10473/logo_128_1652790001.png",CGTN Русский
+http://mhd118.iptv2022.com/p/SE1hVyZTEOXPb0XSi9PNpg,1655540896/streaming/cgtn-rus/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10476/logo_128_1652790001.png",Детское кино
+http://mhd118.iptv2022.com/p/-RSMCx-0lzozwYpoVQ_W_w,1655540896/streaming/det_kino/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13/logo_128_1652790001.png",ТНТ Music
+http://mhd118.iptv2022.com/p/FLHof0dhKA54qYD1pNXDTA,1655540896/streaming/tntmusic/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10278/logo_128_1652790001.png",МузСоюз
+http://mhd118.iptv2022.com/p/eQruCpBw4i4JJQoaMKq9jA,1655540897/streaming/muzsouz/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10430/logo_128_1652790001.png",МультСезон
+http://mhd118.iptv2022.com/p/4AEUz96UD6B2gM_tYb9bAA,1655540897/streaming/multsezon/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10433/logo_128_1652790001.png",О!Кино
+http://mhd118.iptv2022.com/p/IRXcC7kRy_T-S5CF_jbb6w,1655540897/streaming/okino/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10147/logo_128_1652790001.png",Пес и Ко
+http://mhd118.iptv2022.com/p/1QLddRvua9YEhOCr3_vJQA,1655540897/streaming/pesiko/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10251/logo_128_1652790001.png",Радость моя
+http://mhd118.iptv2022.com/p/qf4e8Q7OLGCmU61QO8gvdA,1655540897/streaming/radost/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10093/logo_128_1652790001.png",Нано
+http://mhd118.iptv2022.com/p/DUfAPPA8no8CGeD3ploYTQ,1655540897/streaming/nano/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/112/logo_128_1652790001.png",РБК
+http://mhd118.iptv2022.com/p/AFmgpgpGTSfBJXRqcbt-cw,1655540897/streaming/rbk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10352/logo_128_1652790001.png",Диалоги о рыбалке
+http://mhd118.iptv2022.com/p/HukbCaP-l3i5E4DY8PA6NQ,1655540897/streaming/oribalke/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/123/logo_128_1652790001.png",Союз
+http://mhd118.iptv2022.com/p/V27DOquudp0yngOMFgSkyg,1655540897/streaming/souz/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/142/logo_128_1652790001.png",Успех
+http://mhd118.iptv2022.com/p/wTT_ZkiMGzX3MF9Dq_HOgw,1655540897/streaming/uspeh/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/139/logo_128_1652790001.png",БелРос
+http://mhd118.iptv2022.com/p/JnXyZjdF1WKjAtSK88zXFw,1655540897/streaming/belros/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14/logo_128_1652790001.png",BRIDGE
+http://mhd118.iptv2022.com/p/Q72lT6TO-8DVIG6GNA6s-Q,1655540897/streaming/bridgetv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/16/logo_128_1652790001.png",BRIDGE HITS
+http://mhd118.iptv2022.com/p/6ms_JLIKist_1FYegb3bfg,1655540897/streaming/br.dance/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/46/logo_128_1652790001.png",BRIDGE РУССКИЙ ХИТ
+http://mhd118.iptv2022.com/p/A5313P9vMrRU5GBgh_dbeg,1655540897/streaming/br.rushit/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/21/logo_128_1652790001.png",Europa Plus TV
+http://mhd118.iptv2022.com/p/4ulRRyi5HyXxY3-5OLwx5A,1655540897/streaming/evropaplus/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10216/logo_128_1652790001.png",UNIVER TV
+http://mhd118.iptv2022.com/p/svBdEcyL106xu2BYIpbQrA,1655540897/streaming/univertv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10257/logo_128_1652790001.png",Fashion TV
+http://mhd118.iptv2022.com/p/kFsVCVE_BJsSBM4eiTFzng,1655540897/streaming/fashion/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10258/logo_128_1652790001.png",Надежда
+http://mhd118.iptv2022.com/p/7wX9f0zcN4oO9hOrByDAsQ,1655540897/streaming/nadejda/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10260/logo_256_1655389076.png",ТДК
+http://mhd118.iptv2022.com/p/DSCstBkll3nhsShTwSR-cQ,1655540897/streaming/tdk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10264/logo_128_1652790001.png",Жара
+http://mhd118.iptv2022.com/p/AseKSFsCyly3T6MlfJCcPw,1655540897/streaming/myhouse/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10288/logo_128_1652790001.png",Сказки Зайки
+http://mhd118.iptv2022.com/p/ZWeLJgE163Qe59fAV-Pckg,1655540897/streaming/zaj/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10289/logo_128_1652790001.png",Советские мультфильмы
+http://mhd118.iptv2022.com/p/_8HiY0cWP88TJvNs5-PHRw,1655540897/streaming/rusmult/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10290/logo_128_1652790001.png",Советское кино
+http://mhd118.iptv2022.com/p/zRq48_vMXw-t_2PisKc0xg,1655540897/streaming/sovietmovs/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10311/logo_128_1652790001.png",Страна FM
+http://mhd118.iptv2022.com/p/Yur3Mcm0n33SPZWkYXtSWQ,1655540897/streaming/stranafm/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10315/logo_128_1652790001.png",Эхо-тв
+http://mhd118.iptv2022.com/p/Bi3o98OTTGh9sgjvI0vsYA,1655540897/streaming/ehotv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10345/logo_128_1652790001.png",Большая Азия
+http://mhd118.iptv2022.com/p/zAQQ1-5rt4VaFdMmhMlK9g,1655540897/streaming/bigasia/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10064/logo_128_1652790001.png",7tv
+http://mhd118.iptv2022.com/p/Lydg0agelc0QrwUzpY2Elg,1655540897/streaming/7tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10377/logo_256_1655386853.png",360 Новости
+http://mhd118.iptv2022.com/p/Gke72HUqx4oALA-babE8cA,1655540897/streaming/360news/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10480/logo_128_1652790001.png",ТВ Экстра
+http://mhd118.iptv2022.com/p/D7Cc2jtLaw0o_joB014g0w,1655540897/streaming/tvextra/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10666/logo_256_1655389321.png",Arirang
+http://mhd118.iptv2022.com/p/Yi8c7nGA7trJZyX-z7isBA,1655540897/streaming/arirang/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10640/logo_256_1655388674.png",Родной канал
+http://mhd118.iptv2022.com/p/IDsqjPSpCMhHdHoHyRENsQ,1655540897/streaming/rodnoy-kanal/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10554/logo_128_1652790001.png",SONGTV Russia
+http://mhd118.iptv2022.com/p/ODy9EFdCVWMpndZKkY0QJg,1655540897/streaming/songtvru/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10618/logo_256_1655389346.png",TV BRICS
+http://mhd118.iptv2022.com/p/MnEAiMVLs57T3S9QdpgNhQ,1655540897/streaming/briks/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10628/logo_128_1652790001.png",7D7
+http://mhd118.iptv2022.com/p/ayUDnl0r80qKZdso3qfbgA,1655540897/streaming/7d7/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10639/logo_128_1652790001.jpg",Angel TV
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/9bb3a293/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10678/logo_256_1655390177.png",CNA
+http://mhd118.iptv2022.com/p/lwPMXtRoHbpnATmioUPXpQ,1655540897/streaming/cna_eu/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10641/logo_256_1655390745.png",Телеканал народной музыки
+http://mhd118.iptv2022.com/p/Y9NMh-FW4nz1pxdsOHHU_Q,1655540897/streaming/folk_music/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10670/logo_128_1652790001.png",Здоровье
+http://mhd118.iptv2022.com/p/Q8JX257Bed8Jbdsp0cU_Aw,1655540897/streaming/zdrav/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10674/logo_256_1655386087.png",Живи Активно
+http://mhd118.iptv2022.com/p/4qWoGtKXLoC1glVK1ahqwA,1655540897/streaming/zhivi_aktivno/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10675/logo_128_1652790001.png",Живая природа
+http://mhd118.iptv2022.com/p/9HujvJalRDExVcOMpzK0Og,1655540897/streaming/livenature/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10676/logo_256_1655385955.png",Глазами туриста
+http://mhd118.iptv2022.com/p/ESN7strlBZmf7k8fmnhO3A,1655540897/streaming/tourist_eyes/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12356/logo_256_1655388703.png",BRIDGE Фрэш
+http://mhd118.iptv2022.com/p/k--uObyoODYr0C_SOeeD5g,1655540897/streaming/br.fresh/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10045/logo_128_1652790001.png",Travel+Adventure HD
+http://mhd118.iptv2022.com/p/hSq2FLidH_8Hg2ri6tCU3w,1655540897/streaming/travelhd/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10098/logo_128_1652790001.png",RTД HD
+http://mhd118.iptv2022.com/p/FQCHnQ-tHs2Z5EO0g7fwyg,1655540897/streaming/rtdhd/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10043/logo_256_1655386875.png",360
+http://mhd118.iptv2022.com/p/twk_FfRcmMoQ389CDag9aA,1655540897/streaming/360sd/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10425/logo_256_1653024572.png",ТВ ПРНК
+http://mhd118.iptv2022.com/p/DQfJZ9E2TPNJb_pOAxbQ6g,1655540897/streaming/1pnk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10661/logo_256_1655386442.png",Ключ HD
+http://mhd118.iptv2022.com/p/KtKYZMiQnDgawAbawkzDng,1655540897/streaming/kluchhd/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11159/logo_256_1655386039.png",Загородная Жизнь
+http://mhd118.iptv2022.com/p/4DqnFHUiiBtabL0vzG7BIw,1655540897/streaming/zagorod/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11166/logo_256_1655388748.png",BRIDGE DELUXE
+http://mhd118.iptv2022.com/p/Om55TeKFQ9nPEYk10GIfWw,1655540897/streaming/br.delux/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11173/logo_256_1655388725.png",BRIDGE ШЛЯГЕР
+http://mhd118.iptv2022.com/p/rrHk1hieQcV7jIq0hvIxKg,1655540897/streaming/br.shlyager/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12391/logo_256_1655389526.png",Clubbing TV HD
+http://mhd118.iptv2022.com/p/KEmwUwuKmZsbyNGtirwLqw,1655540897/streaming/clubbingtv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10646/logo_256_1655388613.png",Полёт ТВ
+http://mhd118.iptv2022.com/p/OQLSR2gF4Z-Xl3hBS_3zcg,1655540898/streaming/polet/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10647/logo_128_1652790001.png",АКВА ТВ
+http://mhd118.iptv2022.com/p/0dd5J67cHjueOKufAUhj_A,1655540898/streaming/aqua/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10648/logo_256_1655388871.png",Светлое ТВ
+http://mhd118.iptv2022.com/p/49i86PaZG2Brh2VxsyRPoQ,1655540898/streaming/svetloetv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/149/logo_128_1652790001.png",LUXURY
+http://mhd118.iptv2022.com/p/VVyi_6rsP_nLFlL_vG2hNQ,1655540898/streaming/luxury/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10356/logo_128_1652790001.png",ТБН
+http://mhd118.iptv2022.com/p/gAGHRjlJg2hfSlBZfGnwkg,1655540898/streaming/tbn/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10128/logo_128_1652790001.png",Смайлик
+http://mhd118.iptv2022.com/p/NaNfnExN9RMu0MsuqlbzDw,1655540898/streaming/smile/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10129/logo_128_1652790001.png",ПРО БИЗНЕС
+http://mhd118.iptv2022.com/p/BaPZhU4iBwxW8QOgrE-6ig,1655540898/streaming/probusiness/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10149/logo_128_1652790001.png",ПроДвижение
+http://mhd118.iptv2022.com/p/ZKb7BMc130h7d5FKc5A-TQ,1655540898/streaming/prodvijenie/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/52/logo_128_1652790001.png",BRIDGE CLASSIC
+http://mhd118.iptv2022.com/p/uyJLVVQtBfzYGH7ScbxZgg,1655540898/streaming/br.classic/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/138/logo_128_1652790001.png",Три Ангела
+http://mhd118.iptv2022.com/p/WG5QYQ4zI7IQjn-dJC5r9Q,1655540898/streaming/3angel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11103/logo_128_1652790001.jpg",NASA TV
+https://barbara.iptv2022.com/NASA_TV_eng/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11110/logo_256_1655390445.png",NASA TV Media (eng)
+https://barbara.iptv2022.com/NASA_TV_Media_eng/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12272/logo_256_1655389588.png",HD Media
+http://mhd118.iptv2022.com/p/bH8pgzGsyVouf7jsN1J3Rw,1655540898/streaming/hdmedia/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10106/logo_128_1652790001.png",O2TV
+http://mhd118.iptv2022.com/p/ZTjtIhkZVYsp6tDbCSDHXw,1655540898/streaming/o2tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10102/logo_128_1652790001.png",Шансон
+http://mhd118.iptv2022.com/p/3Jn4k7ITWR3jeuxLL6ip7w,1655540898/streaming/shanson/324/variable.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10830/logo_128_1652790001.png",Тайны Галактики
+http://mhd118.iptv2022.com/p/NVNbRwPx66tGCEXDsX7WuQ,1655540898/streaming/taina-galaxy/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10120/logo_128_1652790001.png",Министерство Идей
+http://mhd118.iptv2022.com/p/FevBxFouyE4P7eZGuTR7HA,1655540898/streaming/minidei/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10135/logo_128_1652790001.png",Центральное ТВ
+http://mhd118.iptv2022.com/p/Q6lVzKjE5562qm1_RS9xZg,1655540898/streaming/centrtv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10145/logo_128_1652790001.png",Старт
+http://mhd118.iptv2022.com/p/oXPv-KqDVnQejpXhKhJRNQ,1655540898/streaming/start/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12657/logo_256_1655388529.png",ОСН ТВ
+http://mhd118.iptv2022.com/p/lLaxCr6se7bLDjYINs3KiQ,1655540898/streaming/osnmedia/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12958/logo_128_1644577193.png",Национальный жилищный канал
+http://mhd118.iptv2022.com/p/xwYf9Ax3GAuktMOpfviXkw,1655540898/streaming/nzhklive/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13343/logo_128_1648016998.png",TBN Baltia
+http://mhd118.iptv2022.com/p/yBfVgYisel85MoayvlXUsA,1655540898/streaming/tbn_baltic/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13490/logo_128_1649749574.png",Kinoliving
+http://mhd118.iptv2022.com/p/weplKXq-i2xS0C-5oYx8uA,1655540898/streaming/kinoliving/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13728/logo_128_1651646697.png",World Fashion Channel HD
+http://mhd118.iptv2022.com/p/jXXBKXlh9uqKqGblpDQNcw,1655540898/streaming/world_fashion/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13735/logo_128_1651661523.png",Solovjov Live
+http://mhd118.iptv2022.com/p/wnVFzVy3xvTc5lC8QB5-dg,1655540898/streaming/solovyevlive/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13812/logo_128_1652683971.png",BLAST CHANNEL TV
+http://mhd118.iptv2022.com/p/ZPP8bWti81e0Ih6iYwD8pQ,1655540898/streaming/blast_channel_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13987/logo_256_1653655912.png",Тип-Топ HD
+http://mhd118.iptv2022.com/p/CyHb1eRrqrsb270yHSg4lQ,1655540898/streaming/tiptop/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14225/logo_256_1655206488.png",HHQ
+http://mhd118.iptv2022.com/p/BjIeLC23zpHTBuz7qxyGYA,1655540898/streaming/hhq/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13588/logo_128_1650633953.png",Ё (Самара)
+http://mhd118.iptv2022.com/p/rIXbOtiDrarI5Kc3yXmmrg,1655540898/streaming/echannel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/143/logo_128_1652790001.png",Феникс+ Кино
+http://mhd118.iptv2022.com/p/oelucoaaMPyxydQOaizdhQ,1655540898/streaming/fenixkino/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10148/logo_128_1652790001.png",ТНВ Планета (Татарстан)
+http://mhd118.iptv2022.com/p/wFMKeY6Te-zkJJIMIVnfCA,1655540898/streaming/tnv-planet/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13112/logo_128_1645532383.jpg",7 канал (Красноярск)
+http://mhd118.iptv2022.com/p/878wXdqpH0a-w1VjK6Vyhg,1655540898/streaming/7channel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png",Волга (Нижний Новгород)
+http://mhd118.iptv2022.com/p/g0W80YwhKw7yI0wtIP8IMg,1655540898/streaming/volga-nn/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10241/logo_128_1652790001.png",ОТВ (Екатеринбург)
+http://mhd118.iptv2022.com/p/Vp0cJLTdOl_CBGCQdup9XA,1655540898/streaming/otvekb/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10130/logo_128_1652790001.png",Первый Крымский
+http://mhd118.iptv2022.com/p/581xtGb6cuxQuPK8rg_ieQ,1655540898/streaming/1crimea/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10162/logo_128_1652790001.png",БСТ (Уфа)
+http://mhd118.iptv2022.com/p/cM_s3xRFYdM8EjmuDITo3g,1655540898/streaming/bst/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10194/logo_128_1652790001.png",Лен ТВ24 (Санкт-Петербург)
+http://mhd118.iptv2022.com/p/zdLGCYxZR89HCRn4t1kOOg,1655540898/streaming/lentv24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10111/logo_128_1652790001.png",Каскад24 (Калининград)
+http://mhd118.iptv2022.com/p/2tOg6FBli6mDNIGLm8qu4g,1655540898/streaming/kaskad/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10122/logo_128_1652790001.png",Грозный
+http://mhd118.iptv2022.com/p/Knjkr263_3n_fSCQPiWzXQ,1655540898/streaming/grozniy/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10324/logo_256_1655388955.png",Солнечногорск ТВ (Моск.обл)
+http://mhd118.iptv2022.com/p/uhmXLOQTCHEHD4kZZ6OXOw,1655540898/streaming/solnechnogorsk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10266/logo_128_1652790001.png",ННТВ (Нижний Новгород)
+http://mhd118.iptv2022.com/p/aNeVcfphHqsKqa093TqsyQ,1655540898/streaming/nntv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10188/logo_128_1652790001.png",Губерния 33 (Владимир)
+http://mhd118.iptv2022.com/p/yycXZbfjvmTHJRU4Zvp0Uw,1655540898/streaming/guberniya-v/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/98/logo_256_1655450391.png",Чăваш Ен (Чувашия)
+http://mhd118.iptv2022.com/p/h4OlSMUziVUaS0Fve7tT6A,1655540898/streaming/chavashen/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10350/logo_128_1652790001.png",ШАЯН ТВ (Татарстан)
+http://mhd118.iptv2022.com/p/l62VYOTPSM3B_G41Miw61g,1655540898/streaming/shayan/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10230/logo_128_1652790001.png",Майдан (Татарстан)
+http://mhd118.iptv2022.com/p/MQGIYPh_KvjeWmloM2Tm4Q,1655540898/streaming/maidan/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10298/logo_128_1652790001.png",Хузур ТВ (Татарстан)
+http://mhd118.iptv2022.com/p/bvxFBh-T1wGRo5O5pOuqgA,1655540898/streaming/huzur/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10249/logo_128_1652790001.png",Башкортостан 24
+http://mhd118.iptv2022.com/p/2Gg5_3y90fmKC1aHFEuJ2A,1655540898/streaming/vgtrkbash/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10281/logo_128_1652790001.png",АРИС 24 (Башкортостан)
+http://mhd118.iptv2022.com/p/TOTm8D9MXmU8SrW-9sANIg,1655540898/streaming/aris24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10209/logo_256_1655387069.png",Вся Уфа
+http://mhd118.iptv2022.com/p/sl45kvmDQcXt6-PoC3KkUQ,1655540898/streaming/allufaru/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10285/logo_128_1652790001.png",8 канал (Новосибирск)
+http://mhd118.iptv2022.com/p/_QXl0xFylnMQCBhgpY8xFQ,1655540898/streaming/8channelnsk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10155/logo_128_1652790001.png",12 канал (Омск)
+http://mhd118.iptv2022.com/p/rAV6A9sGkjs_lU6ZMtEW1Q,1655540898/streaming/12channel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10218/logo_128_1652790001.png",Сочи 24
+http://mhd118.iptv2022.com/p/czab9nvJbtHiiaMM_A3ELw,1655540898/streaming/maksmedia/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10267/logo_128_1652790001.png",СТРК (Сочи)
+http://mhd118.iptv2022.com/p/qiUvlqUudqRjOFnc-R_wVw,1655540898/streaming/strk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10253/logo_128_1652790001.png",SochiLive (Сочи)
+http://mhd118.iptv2022.com/p/k2_1ozn3mN_KaKW258BRYA,1655540898/streaming/sochilive/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10434/logo_128_1652790001.png",43 канал (Туапсе)
+http://mhd118.iptv2022.com/p/3i4lHuU7ielIUNjEEAoS5Q,1655540898/streaming/43kanal/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10114/logo_128_1652790001.png",Краснодар он-лайн
+http://mhd118.iptv2022.com/p/EB99usDo77atWgx7TDfGdA,1655540898/streaming/kransodar/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10115/logo_128_1652790001.png",Мир Белогорья
+http://mhd118.iptv2022.com/p/uoBxRifFML-xgvJuXQ1LIw,1655540898/streaming/belogorie/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10131/logo_128_1652790001.png",Крым 24
+http://mhd118.iptv2022.com/p/mfgOnDHxAfU8Pi7HVMKOnA,1655540898/streaming/crimea24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10187/logo_128_1652790001.png",Севастопольское телевидение
+http://mhd118.iptv2022.com/p/0u2KfIKHOx2BJRPPahF2XA,1655540899/streaming/ikstv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10351/logo_128_1652790001.png",МТВ Столица (Дагестан)
+http://mhd118.iptv2022.com/p/asg8teZ3mhwLutqAZ7JIsQ,1655540899/streaming/stolica/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10215/logo_128_1652790001.png",Матур ТВ (Башкортостан)
+http://mhd118.iptv2022.com/p/ofM1LcfZ9xryeJBigFXGoA,1655540899/streaming/matur1/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10134/logo_256_1655387098.png",Дагестан
+http://mhd118.iptv2022.com/p/pKJt_SOVO0tovRyO4HTpMw,1655540899/streaming/dagestan/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10112/logo_128_1652790001.png",Инфо 24 (Курганская область г.Шадринск))
+http://mhd118.iptv2022.com/p/shYcqTdf3orjqHov-k71xA,1655540899/streaming/shard.info/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10119/logo_128_1652790001.png",Ингушетия
+http://mhd118.iptv2022.com/p/478voogj3ARTOt3pzFh91Q,1655540899/streaming/ingushetia/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10322/logo_128_1652790001.png",ГТРК «Кабардино-Балкария»
+http://mhd118.iptv2022.com/p/onj--8MAHFORKlIfOBcR7A,1655540899/streaming/kab.tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10152/logo_128_1652790001.png",Новое телевидение (KZ)
+http://mhd118.iptv2022.com/p/ykVgSF4SPqxMVmdmQWfgwg,1655540899/streaming/novoetv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10330/logo_128_1652790001.png",Almaty (KZ)
+http://mhd118.iptv2022.com/p/GStatsncYDPCb4QcELivcg,1655540899/streaming/almata/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10139/logo_128_1652790001.png",Губерния ТВ (Хабаровск)
+http://mhd118.iptv2022.com/p/Mrx9OBpRJffKW_kRak4E3A,1655540899/streaming/guberniya-h/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10121/logo_128_1652790001.png",Тюменское Время
+http://mhd118.iptv2022.com/p/nfuR71VLSkrEUsUWLlejQw,1655540899/streaming/tumentime/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10132/logo_128_1652790001.png",Север (Нарьян-Мар)
+http://mhd118.iptv2022.com/p/YnNtNyTMRg9xIbBPJuRaeA,1655540899/streaming/sever/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10172/logo_128_1652790001.png",8 Канал (Красноярск)
+http://mhd118.iptv2022.com/p/Ni4GkIsvYxFV5u7026csrQ,1655540899/streaming/8krasnoyarsk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10164/logo_128_1652790001.png",Юрган ТВ (Сыктывкар)
+http://mhd118.iptv2022.com/p/lnxT2BxBzjlmYeAiv9_wug,1655540899/streaming/urgan/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10280/logo_256_1655389473.png",Канал 86 (Сургут)
+http://mhd118.iptv2022.com/p/JVZjZms8PyVXUvmj70UZMw,1655540899/streaming/channel86/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10279/logo_256_1655389452.png",Канал С1 (Сургут)
+http://mhd118.iptv2022.com/p/I15_B1sHZuKycUpNfBm9lw,1655540899/streaming/channelc1/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10328/logo_128_1652790001.png",НВК Саха (Якутия)
+http://mhd118.iptv2022.com/p/MuB_YFAz5DdXAqmico9NJA,1655540899/streaming/nsk-saha/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10195/logo_256_1655390530.png",Санкт-Петербург
+http://mhd118.iptv2022.com/p/F2-ND5TyvQJ6Eim1oPc54A,1655540899/streaming/topspb/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10329/logo_128_1652790001.png",Югра (Ханты-Мансийск)
+http://mhd118.iptv2022.com/p/rfIpODuC_jLquPpshtbVew,1655540899/streaming/ugra/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/179/logo_128_1652790001.png",ЮТВ (Чувашия)
+http://mhd118.iptv2022.com/p/slG0ORcOTZWgQF0IqISWmA,1655540899/streaming/utv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10065/logo_128_1652790001.png",Чувашия онлайн
+http://mhd118.iptv2022.com/p/RpygL8Zvt1WIIlgu01ATQg,1655540899/streaming/camera-online/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10367/logo_128_1652790001.png",Мособр ТВ (Москва)
+http://mhd118.iptv2022.com/p/_-m_ktjuL0ahlYjPPk8nmw,1655540899/streaming/mosobrtv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10348/logo_256_1655386598.png",Саратов 24
+http://mhd118.iptv2022.com/p/rEtIs7BsX3HGWSN9Itf3ZQ,1655540899/streaming/saratov24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10208/logo_128_1652790001.png",Наш дом (Пенза)
+http://mhd118.iptv2022.com/p/MamrJ6us96Xbk5iSgZoBsg,1655540899/streaming/11channel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10118/logo_128_1652790001.png",СВОЁТВ (Ставрополь)
+http://mhd118.iptv2022.com/p/58Rhl3xWs7cNKqVQsYgfMQ,1655540899/streaming/svoetv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10190/logo_128_1652790001.png",Ямал-регион (Салехард)
+http://mhd118.iptv2022.com/p/90r8L00pG63v4D-GbAt3bg,1655540899/streaming/yamal-region/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10325/logo_128_1652790001.jpg",НТС (Севастополь)
+http://mhd118.iptv2022.com/p/6xrhPNYk9lXrhn4L7lXTgg,1655540899/streaming/nts-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10192/logo_128_1652790001.png",Волгоград 24
+http://mhd118.iptv2022.com/p/0tpGyeNDOTkTVSI6k8pb3Q,1655540899/streaming/volgogradtrv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10163/logo_128_1652790001.png",Курай (Уфа)
+http://mhd118.iptv2022.com/p/ARlwdkiO8OPbGpWAP-saZA,1655540899/streaming/curai/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10189/logo_128_1652790001.png",Липецкое время
+http://mhd118.iptv2022.com/p/S7-8-2DbK5RZ4GVD6SEZPw,1655540899/streaming/lipeck/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10193/logo_128_1652790001.png",Дон 24 (Ростов-на-Дону)
+http://mhd118.iptv2022.com/p/DBcR6Hzm3fnBUDOjWHrhfQ,1655540899/streaming/don24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10127/logo_128_1652790001.png",Ника ТВ (Калуга)
+http://mhd118.iptv2022.com/p/pvSXUvcI-_N7-T24wX45aA,1655540899/streaming/nika/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10126/logo_128_1652790001.png",TV Губерния (Воронеж)
+http://mhd118.iptv2022.com/p/Ak1_2TikiS2x7jHB_crDag,1655540899/streaming/guberniya/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10199/logo_128_1652790001.png",Губерния Самарская
+http://mhd118.iptv2022.com/p/0-gYqGgHx8mWJBqNP5RvRg,1655540899/streaming/guberniatv-s/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10113/logo_128_1652790001.png",Сейм (Курск)
+http://mhd118.iptv2022.com/p/l3e4_vwC3cfg0m9H-WlPXQ,1655540899/streaming/seim/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10196/logo_128_1652790001.png",ОРТ-Планета (Оренбург)
+http://mhd118.iptv2022.com/p/JUzObM5frE870LhKW-7e2w,1655540899/streaming/media56/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10344/logo_128_1652790001.png",Регион 29 (Архангельск)
+http://mhd118.iptv2022.com/p/nvDOXHPOwU2gIuGRHqQmKg,1655540899/streaming/region29/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10284/logo_128_1652790001.png",Десятка (Кемеровская область г.Новокузнецк)
+http://mhd118.iptv2022.com/p/_Ue-TBVkgSM4Y78ttjO35g,1655540899/streaming/10channel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10276/logo_128_1652790001.png",Ветта 24 (Пермь) 
+http://mhd118.iptv2022.com/p/VuroapbTT0oxCFYK9JTk9A,1655540899/streaming/vetta/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10191/logo_128_1652790001.png",Астрахань 24
+http://mhd118.iptv2022.com/p/728aAcu76lLryr8rs11Mkw,1655540899/streaming/astrakhan24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10116/logo_128_1652790001.png",Архыз 24 (Черкесск)
+http://mhd118.iptv2022.com/p/TvrORsmNtA2bGulnt-T9kw,1655540899/streaming/arhis24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10197/logo_128_1652790001.png",ТРК Экспресс (Пенза)
+http://mhd118.iptv2022.com/p/F4PXjjvXIJwhmlSQFdWMzg,1655540899/streaming/expres_penza/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10217/logo_128_1652790001.png",Кубань 24 ОРБИТА (Краснодар)
+http://mhd118.iptv2022.com/p/kNCJzz8Pf9tp8DS8XmnoLA,1655540899/streaming/cuban24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10210/logo_128_1652790001.png",Енисей (Красноярск)
+http://mhd118.iptv2022.com/p/5J9BZA6EgcQ-58NTRiORfQ,1655540899/streaming/enisey/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10165/logo_128_1652790001.png",Катунь-24 (Барнаул)
+http://mhd118.iptv2022.com/p/SeQqqmInghFUAb3jIr1D8A,1655540899/streaming/katun24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10275/logo_128_1652790001.png",НТМ (Мордовия) 
+http://mhd118.iptv2022.com/p/kV4ljgAIPeOf_cvPgAEGmw,1655540899/streaming/ntm/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10306/logo_128_1652790001.png",ТОЛЬЯТТИ 24
+http://mhd118.iptv2022.com/p/m8NGd7TDHnAiPtslXHMedw,1655540899/streaming/tolyati24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10201/logo_128_1652790001.png",Аист ТВ (Иркутск)
+http://mhd118.iptv2022.com/p/PUg5D7vEVvPMdXnPj7PaCQ,1655540899/streaming/aisttv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10283/logo_128_1652790001.png",Тамыр (Уфа)
+http://mhd118.iptv2022.com/p/sUqPMvFQ8Ao8XgFv7cc7Zw,1655540899/streaming/tamir/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10274/logo_128_1652790001.png",АТВ (Ставрополь) 
+http://mhd118.iptv2022.com/p/d6SfCTNOy8pMwHafI5im5g,1655540899/streaming/atv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10331/logo_128_1652790001.png",Atameken Business (KZ)
+http://mhd118.iptv2022.com/p/yu7jjRt5isplNw6s0giRMw,1655540899/streaming/atameken/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10272/logo_128_1652790001.png",Эхо 24 (Новоуральск) 
+http://mhd118.iptv2022.com/p/VqbJkdqtSEEkI6FpqBW2Bg,1655540899/streaming/eho24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10229/logo_128_1652790001.png",Жар Птица
+http://mhd118.iptv2022.com/p/GPXwtyC3pCDN8s--LHOseg,1655540900/streaming/jarptica/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10063/logo_128_1652790001.png",Русский север (Вологда)
+http://mhd118.iptv2022.com/p/gxS8CuXhbruQEkpaNwOfRQ,1655540900/streaming/russever/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10357/logo_256_1655386970.png",Брянская губерния
+http://mhd118.iptv2022.com/p/i1LcnhJxYPLTJk_Qy_7jZw,1655540900/streaming/guberniya-b/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10361/logo_128_1652790001.png",Миллет (Крым)
+http://mhd118.iptv2022.com/p/PKGlbz0DRiaLYq7Pz_yX9g,1655540900/streaming/millet/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10362/logo_128_1652790001.png",Ростов-папа (Ростов-на-дону)
+http://mhd118.iptv2022.com/p/dzoIc03o_lX1pUbMJrploQ,1655540900/streaming/rostov-papa/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10364/logo_128_1652790001.png",Эфир (Казань)
+http://mhd118.iptv2022.com/p/dvGUOT5LS3fB86F1RA_MpQ,1655540900/streaming/efir/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10366/logo_128_1652790001.png",Луч (ЯНАО)
+http://mhd118.iptv2022.com/p/8r1WFNO2oW1o5ermAY75og,1655540900/streaming/luch/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10369/logo_128_1652790001.png",Татарстан 24
+http://mhd118.iptv2022.com/p/ivBYPdUyhLt4d7kDf1hBBA,1655540900/streaming/tatar24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10370/logo_128_1652790001.png",Восток 24 (Владивосток)
+http://mhd118.iptv2022.com/p/b3pJKb4pntoEUh0PlNeDNw,1655540900/streaming/vostok24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10380/logo_128_1652790001.png",Мордовия 24
+http://mhd118.iptv2022.com/p/yxum8vS0dnXxGiRYKtkogQ,1655540900/streaming/mordovia24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10389/logo_128_1652790001.png",Рыбинск-40
+http://mhd118.iptv2022.com/p/cyrMxGgZhrf0q8ynD02-lA,1655540900/streaming/rybinsk40/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10390/logo_128_1652790001.png",O’zbekiston (UZ)
+http://mhd118.iptv2022.com/p/GJj_2jk9iVOb_VUAixyu8w,1655540900/streaming/uzbekistan/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10391/logo_128_1652790001.png",Yoshlar (UZ)
+http://mhd118.iptv2022.com/p/xqKuaOrsYEC3olR64JE0eA,1655540900/streaming/yoshlar/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10392/logo_128_1652790001.png",Toshkent (UZ)
+http://mhd118.iptv2022.com/p/xvZWZLqINvMsn-08LMfdPw,1655540900/streaming/toshkent/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10394/logo_128_1652790001.png",Madaniyat va Ma’rifat (UZ)
+http://mhd118.iptv2022.com/p/PZpFhtdu7VJO3zCni6NpWw,1655540900/streaming/madaniyat_va_marifat/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10395/logo_128_1652790001.png",Dunyo Bo’ylab (UZ)
+http://mhd118.iptv2022.com/p/M_gv1utAOavR6HHdcbPOCg,1655540900/streaming/dunyo_boylab/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10396/logo_128_1652790001.png",Bolajon (UZ)
+http://mhd118.iptv2022.com/p/_Q_n6KjT-oyuVsXkioaf4A,1655540900/streaming/bolajon/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10397/logo_128_1652790001.png",Navo (UZ)
+http://mhd118.iptv2022.com/p/EWWDIm8t9b2S-T9YPxf3WA,1655540900/streaming/navo/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10398/logo_128_1652790001.png",Mahalla (UZ)
+http://mhd118.iptv2022.com/p/3QdFgPGvgNfVwrjlDOPD9g,1655540900/streaming/mahalla/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10399/logo_128_1652790001.png",Kinoteatr (UZ)
+http://mhd118.iptv2022.com/p/-hqiauHMOljPF6Cic2ii-w,1655540900/streaming/kinoteatr/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10401/logo_128_1652790001.png",O’zbekiston 24 (UZ)
+http://mhd118.iptv2022.com/p/4DOe8qUzTdsrGaiO--o7dw,1655540900/streaming/uzbekistan24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10402/logo_128_1652790001.png",Сургут 24
+http://mhd118.iptv2022.com/p/kSVD0CGgBNy-8SCG1PfOKQ,1655540900/streaming/surgut24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10403/logo_128_1652790001.png",ТКР (Рязань)
+http://mhd118.iptv2022.com/p/hLgT2GZ4A0MCBUxLam-IBA,1655540900/streaming/trk_razan/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10404/logo_128_1652790001.png",Белгород 24
+http://mhd118.iptv2022.com/p/X5P3XFNjmLtmxxt51eBqHQ,1655540900/streaming/belgorod24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10405/logo_128_1652790001.png",Первый Тульский
+http://mhd118.iptv2022.com/p/TPhRl3V_hgi8QF-M08eyJw,1655540900/streaming/1tula/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10414/logo_128_1652790001.jpg",ТВК (Красноярск)
+http://mhd118.iptv2022.com/p/X9RLrlpKkDhhCk5O1zLQoA,1655540900/streaming/tvk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10415/logo_128_1652790001.png",Тоҷикистон (TJ)
+http://mhd118.iptv2022.com/p/-M1IzwkFiynbvAwFZocXeg,1655540900/streaming/tojikiston/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10416/logo_128_1652790001.png",ТВ Сафина (TJ)
+http://mhd118.iptv2022.com/p/Xhj-jFyE3UoCBiB6pM4rpg,1655540900/streaming/safinatv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10417/logo_128_1652790001.png",ТВ Баҳористон (TJ)
+http://mhd118.iptv2022.com/p/vrAf2UavbCacganabex1FA,1655540900/streaming/bohoristontv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10418/logo_128_1652790001.png",Джахоннамо (TJ)
+http://mhd118.iptv2022.com/p/8Uzqj0yCVRsxxCyqQq4Uvg,1655540900/streaming/jahonnamo/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10419/logo_128_1652790001.png",Варзиш ТВ (TJ)
+http://mhd118.iptv2022.com/p/jjLAOsBS7Fl_P_d_wxCYxA,1655540900/streaming/varzishtv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10420/logo_128_1652790001.png",ТВ Синамо (TJ)
+http://mhd118.iptv2022.com/p/HNfmO7GMR2JIoWy4f5MJbQ,1655540900/streaming/sinamotv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10421/logo_128_1652790001.png",CBC (AZ)
+http://mhd118.iptv2022.com/p/x6GwqFofOnpWj_61a2yrJA,1655540900/streaming/cbc_az/324/variable.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10426/logo_128_1652790001.png",Ариг Ус 24 (Улан-Удэ)
+http://mhd118.iptv2022.com/p/l-2_cKUPD-hLlYVSvVfZhQ,1655540900/streaming/arigushd/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10428/logo_128_1652790001.png",Салям (Уфа)
+http://mhd118.iptv2022.com/p/myePTph9keBkh5KT_PPldg,1655540900/streaming/salyam/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10435/logo_128_1652790001.png",ТИВИСИ (Иркутск)
+http://mhd118.iptv2022.com/p/Z97VnnS-VT7IISFKU6BVNQ,1655540900/streaming/tivici/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10436/logo_128_1652790001.png",Вестник Надыма (ЯНАО)
+http://mhd118.iptv2022.com/p/kKuU14hEYiTCHDV6KVg3XA,1655540900/streaming/trknadym/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10437/logo_128_1652790001.png",Прибой ТВ (Дагестан)
+http://mhd118.iptv2022.com/p/JIssqHQZ3gY9p_aAHrIKzg,1655540900/streaming/priboy/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10438/logo_128_1652790001.png",Севастополь 24
+http://mhd118.iptv2022.com/p/hdvfqy1klgpTU-YJjQuT4w,1655540900/streaming/sevastopol24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10440/logo_128_1652790001.png",Импульс (Новый Уренгой)
+http://mhd118.iptv2022.com/p/BBhV5Ky0h9uCtUNR0T0v9g,1655540900/streaming/impuls/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10442/logo_128_1652790001.png",Самара 24
+http://mhd118.iptv2022.com/p/0EmSyBUOQhJbYhybLrkb6w,1655540900/streaming/samara24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10444/logo_128_1652790001.png",URAL1 (Челябинск)
+http://mhd118.iptv2022.com/p/BX7_mdb8wE81X3FZPNrRKA,1655540900/streaming/ural1/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10445/logo_256_1655386332.png",Канал 12 (Череповец)
+http://mhd118.iptv2022.com/p/wmTjNlAbemZpbHuyHc0Fcw,1655540900/streaming/12cherepovec/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10446/logo_128_1652790001.png",Канал 16 (Саров)
+http://mhd118.iptv2022.com/p/UIYxHloeImOt0UQMqY5_mw,1655540900/streaming/channel16/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10448/logo_128_1652790001.png",ТВ-ИН (Магнитогорск)
+http://mhd118.iptv2022.com/p/Ar2w7GY9SxnkjyCNsMwpUg,1655540900/streaming/tvin/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10453/logo_128_1652790001.png",Алмазный край (Якутия)
+http://mhd118.iptv2022.com/p/DUXOjlK7Vk9wnEaFcaR1ZA,1655540900/streaming/almaz_kray/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10454/logo_128_1652790001.png",Якутия 24
+http://mhd118.iptv2022.com/p/qRL5VogDVs39YbFxM-epnA,1655540900/streaming/yak24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10458/logo_128_1652790001.png",Туапсе 24
+http://mhd118.iptv2022.com/p/Q4VFbU1EW01AzPDS9oyhHA,1655540900/streaming/tuapse24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",ПРИМА (Красноярск)
+http://mhd118.iptv2022.com/p/rs2afvyqLy5mb6hvhciQmw,1655540900/streaming/primatv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10460/logo_128_1652790001.png",Евразия (Оренбургская область г. Орск)
+http://mhd118.iptv2022.com/p/fst2r0KtjQvzCpyg0XDgbA,1655540900/streaming/eurasia/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10461/logo_128_1652790001.png",Тивиком (Улан-Удэ)
+http://mhd118.iptv2022.com/p/ABs2wbS_hMyafZzmrD7h2w,1655540900/streaming/tvcom/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10462/logo_256_1655386224.png",ИЛЛИ ТВ (Ингушетия)
+http://mhd118.iptv2022.com/p/2CmSfINDJug6ygN-fIbQqA,1655540900/streaming/illitv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10463/logo_128_1652790001.png",ТОЛК (Барнаул)
+http://mhd118.iptv2022.com/p/a4vmPhi6xNAe8C2ZmF7BMw,1655540900/streaming/tolktv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10464/logo_128_1652790001.png",Нижний Новгород 24
+http://mhd118.iptv2022.com/p/qFaoDyE10LQ0DjQdU1SOKQ,1655540900/streaming/vestinn24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10467/logo_128_1652790001.png",41 канал ВТК АРГУС (Воронеж)
+http://mhd118.iptv2022.com/p/ru3Yo9hJTxIocIl2NvD_AA,1655540900/streaming/41tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10371/logo_256_1655389246.png",Центр Красноярск
+http://mhd118.iptv2022.com/p/KCQfU_uZa6FCbSDChDOBmA,1655540900/streaming/tck/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10471/logo_128_1652790001.png",Вариант (Владимир)
+http://mhd118.iptv2022.com/p/DQNydvF-FluytB4bYH_wGQ,1655540900/streaming/variant/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10478/logo_128_1652790001.png",41 регион (Петропавловск-Камчатский)
+http://mhd118.iptv2022.com/p/3IOERigah4F-uFZFvpwt2Q,1655540900/streaming/41region/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10479/logo_128_1652790001.png",Первый Псковский
+http://mhd118.iptv2022.com/p/TdC00F28sk22YkZC2TuBrg,1655540900/streaming/1pskov/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10481/logo_128_1652790001.png",Кузбасс 1 (Кемерово)
+http://mhd118.iptv2022.com/p/NOmxHpldxXoa_2Ms6Qbngg,1655540900/streaming/kuzbas1/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10490/logo_128_1652790001.png",ТМ-КВАНТ (Кемеровская обл.)
+http://mhd118.iptv2022.com/p/jTpZaW-b0wybQPaKJ0c8Yw,1655540900/streaming/tm-kvant/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10491/logo_128_1652790001.png",ТВ Регион 04 (Горно-Алтайск)
+http://mhd118.iptv2022.com/p/_ddMNfIh7CLxWgQkd3cVwA,1655540900/streaming/region04/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10531/logo_128_1652790001.png",Абакан 24
+http://mhd118.iptv2022.com/p/61Oo_9Q9ZpJcW-N82QUA3A,1655540900/streaming/abakan24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10537/logo_256_1653467611.png",Девятка ТВ (Киров)
+http://mhd118.iptv2022.com/p/FtWMEhPNcrOpKdVnKlongg,1655540900/streaming/devyatka/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png",4 канал (Екатеринбург)
+http://mhd118.iptv2022.com/p/2bpKuN776BYrVyKoAUgreA,1655540900/streaming/4channel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10543/logo_128_1652790001.jpg",САМОТЛОР (Нижневартовск)
+http://mhd118.iptv2022.com/p/VGFjavWek33ZL7935jdqbw,1655540900/streaming/samotlor/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10545/logo_128_1652790001.jpeg",Беларусь 24
+http://mhd118.iptv2022.com/p/znCh39A1vFjy07Jfyl-9xw,1655540900/streaming/belarus24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10546/logo_256_1655389132.png",ТОК ТВ Коломна (Моск.обл)
+http://mhd118.iptv2022.com/p/F51SEJRgBkJcnb3L6W2UuQ,1655540900/streaming/toktv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10548/logo_256_1655389183.png",Учалы ТВ
+http://mhd118.iptv2022.com/p/1asfSchV3-b3dDwyGccBjw,1655540900/streaming/uchalytv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10551/logo_256_1655389150.png",ТОЛПАР-ТВ (Уфа)
+http://mhd118.iptv2022.com/p/15fXwzuPwhgnsU3FW2vmxA,1655540900/streaming/tolpar/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10555/logo_128_1652790001.png",SONGTV Armenia
+http://mhd118.iptv2022.com/p/RAsy-IPOOIIvcKMpeG2Ohg,1655540900/streaming/songtvam/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10627/logo_256_1655390236.png",MIXM
+http://mhd118.iptv2022.com/p/v2d7ynMCZU4412OGNXXTKA,1655540900/streaming/muz.play/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10629/logo_128_1652790001.png",Городской телеканал (Ярославль)
+http://mhd118.iptv2022.com/p/l2UPNClyj4suDYnOaliPCA,1655540900/streaming/yaroslavl/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10630/logo_128_1652790001.png",Новый век (Тамбов)
+http://mhd118.iptv2022.com/p/Xa5S9sCCl-9T63ejcJwmtA,1655540900/streaming/tambov/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10649/logo_256_1655386245.png",Истоки (Орел)
+http://mhd118.iptv2022.com/p/AllTpal2eAQ_Klg4k5OXbA,1655540900/streaming/istoki/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10650/logo_128_1652790001.jpeg",ПРИМ24 (Владивосток)
+http://mhd118.iptv2022.com/p/Pz5yv6_RU5WvpyLbNBAV8g,1655540900/streaming/prim24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10671/logo_256_1655386834.png",78 канал (Санкт-Петербург)
+http://mhd118.iptv2022.com/p/7DSJERQJxq3SkUi2ICaGEQ,1655540900/streaming/78ch/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10673/logo_256_1655386779.png",6 ТВ (Хабаровск)
+http://mhd118.iptv2022.com/p/AI_MT1lTBWPesRi5Z__o_A,1655540900/streaming/tvk6/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10684/logo_128_1652790001.png",Кунел ТВ (Татарстан)
+http://mhd118.iptv2022.com/p/G3powt3RJb0zaf32Ze5mXg,1655540900/streaming/kuneltv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10690/logo_256_1655388777.png",Русь (Кострома)
+http://mhd118.iptv2022.com/p/UjtQk5CYJR87VsNNih6sQA,1655540900/streaming/kostroma/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10697/logo_128_1652790001.png",ТВ21+ (Мурманск)
+http://mhd118.iptv2022.com/p/fUuzqdGmTAubBVi9HExMQA,1655540900/streaming/murmansk-tv21/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10711/logo_128_1652790001.png",Рифей-ТВ (Пермь)
+http://mhd118.iptv2022.com/p/QQjmmo5VS4nnaNuK_8n7eg,1655540900/streaming/rifey/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10802/logo_128_1652790001.png",ТЕО ТВ (Москва)
+http://mhd118.iptv2022.com/p/aErgQQog3mVhJJBFKrglrA,1655540900/streaming/teo-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10809/logo_256_1655389050.png",Такт 24 (Курск)
+http://mhd118.iptv2022.com/p/LON1h7XC4ViQkDuriScBwA,1655540900/streaming/takt-tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10837/logo_256_1655388918.png",Смотри Радио (Оренбург)
+http://mhd118.iptv2022.com/p/mgYyjZfykp4LxcaSXorrJQ,1655540900/streaming/radio-orsk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10851/logo_256_1655388899.png",Своё ТВ (Пермский край г. Березники)
+http://mhd118.iptv2022.com/p/YyRXzwonmx4aPRi_cihQ5A,1655540900/streaming/svoetv-perm/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11124/logo_256_1655388566.png",ПАНОРАМА ТВ (Тверь)
+http://mhd118.iptv2022.com/p/-VjLe-6GumgvTDTf_XRZ8Q,1655540900/streaming/panorama_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11306/logo_128_1652790001.jpg",TV360-Ленинск (Кемерово)
+http://mhd118.iptv2022.com/p/2O_XNhaFheuy9tu6UtVDBg,1655540900/streaming/ltv1360/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11320/logo_256_1655386173.png",Известия Саратов
+http://mhd118.iptv2022.com/p/v4DS_1ueOljH-IDcdQsDYA,1655540900/streaming/izvestia-saratov/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11341/logo_128_1652790001.png",Город (Курганская область г.Шадринск)
+http://mhd118.iptv2022.com/p/EwNaFaukjT0VOzwpVgwx7Q,1655540900/streaming/gorod/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11677/logo_256_1655390765.png",ЮУрГУ-ТВ (Челябинск)
+http://mhd118.iptv2022.com/p/h4gXxbNZ6eUg6dQrnK8BHg,1655540900/streaming/urgru/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/11999/logo_256_1655386948.png",Брянск 24
+http://mhd118.iptv2022.com/p/XHpC355Y-6uQnNwv4O3mjA,1655540900/streaming/bryansk_24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12027/logo_256_1655386988.png",БСТ24 (Иркутская область г. Братск)
+http://mhd118.iptv2022.com/p/pU50iE9Ef3NBY6WnOuG2xg,1655540900/streaming/bst24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12044/logo_256_1655390729.png",Саров 24
+http://mhd118.iptv2022.com/p/llUYoDmdA614m_GsRjHjEQ,1655540900/streaming/sarov24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12167/logo_256_1655386400.png",НСК 49 (Новосибирск)
+http://mhd118.iptv2022.com/p/OyNE2Nc5hEiIN5006PgGhw,1655540900/streaming/49channel/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12307/logo_256_1655387053.png",Волга24 (Нижний Новгород)
+http://mhd118.iptv2022.com/p/aJKL9VuaQM3yi4B9MSn0YA,1655540900/streaming/vremyan/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/12664/logo_256_1655386814.png",27 канал Прокопьевск
+http://mhd118.iptv2022.com/p/YQQUIz_Yggyq2GYoDa8Zwg,1655540900/streaming/27trk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13098/logo_256_1655386931.png",АСТВ (Сахалин)
+http://mhd118.iptv2022.com/p/tU2vRMJnvQKY5y7j5mMv9Q,1655540900/streaming/astv24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13203/logo_128_1646227366.png",Бийское ТВ (Алтайский край г. Бийск)
+http://mhd118.iptv2022.com/p/TPV4md8gh-Mfo2TiPiseaA,1655540900/streaming/btv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13336/logo_128_1648016614.png",ТРК Братск
+http://mhd118.iptv2022.com/p/oE8CQKFTgJOQ1My_JU1LZQ,1655540900/streaming/bratsk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13371/logo_128_1648034897.png",Первый Севастопольский
+http://mhd118.iptv2022.com/p/Jrbdz36Et1d3jVtMq0K33w,1655540900/streaming/1sevastopol/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13378/logo_128_1648035021.png",Барс (Иваново)
+http://mhd118.iptv2022.com/p/vTSJ7sLkk5kf30Ed42slXA,1655540900/streaming/bars/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13448/logo_128_1648805197.png",Колыма Плюс
+http://mhd118.iptv2022.com/p/m3l42WLwVXeqxvz9-EN8-w,1655540900/streaming/kolyma_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13581/logo_128_1650625513.png",Телеканал Новороссийск
+http://mhd118.iptv2022.com/p/PKwuVmEBBXasRz3cxx7U2g,1655540900/streaming/novorossiysk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13595/logo_128_1650889910.jpg",Буряад ТВ
+http://mhd118.iptv2022.com/p/Ugj4ols33WTpCZxHBj1qrQ,1655540900/streaming/buryad.tv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13602/logo_128_1650893986.png",Кунгур ТВ (Пермский край)
+http://mhd118.iptv2022.com/p/usw_n-zPP6V3OYA3E1UHlw,1655540900/streaming/kungurtv/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/13980/logo_256_1653635730.png",НТС (Иркутск)
+http://mhd118.iptv2022.com/p/BWokfcru4pHdrc3tHO_pbg,1655540900/streaming/nts-irk/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14064/logo_256_1654258289.png",Северный Крым 24
+http://mhd118.iptv2022.com/p/LkY_zGG55tI2TXnktyf86g,1655540900/streaming/sever_crimea24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14071/logo_256_1654258291.png",Евпатория 24 (Республика Крым)
+http://mhd118.iptv2022.com/p/HGdF_3wFrne3026BSxIPeQ,1655540900/streaming/evpotoriya24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14078/logo_256_1654515924.png",Керчь 24 (Республика Крым)
+http://mhd118.iptv2022.com/p/FYHdjZQKz4QweRI9v3ri-g,1655540900/streaming/kerch24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14085/logo_256_1654515969.png",Ялта 24 (Республика Крым)
+http://mhd118.iptv2022.com/p/7IpNbdFWjKkxFF_TSKNseg,1655540900/streaming/yalta24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14092/logo_256_1654516016.png", Восточный Крым 24
+http://mhd118.iptv2022.com/p/JFtOFpJgUhFMTZv76VxDAw,1655540900/streaming/vostok-crimea24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14099/logo_256_1654516072.png",Легендарный 24 (Республика Крым г.Севастополь)
+http://mhd118.iptv2022.com/p/cIa70RkaXlExhdt7s0LXkQ,1655540900/streaming/legend24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14106/logo_256_1654516121.png",Симферополь 24 (Республика Крым)
+http://mhd118.iptv2022.com/p/mzemeAn4JWUo4dIsUSWt5w,1655540900/streaming/simferopol24/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/14148/logo_256_1654674518.png",NEXT-TV (Башкортостан г.Нефтекамск)
+http://mhd118.iptv2022.com/p/-HHmcTP6Y3WGGbLK_8eaCQ,1655540900/streaming/next-tv/324/1/index.m3u8
