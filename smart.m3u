@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg,http://iptvx.one/EPG_LITE" cache=500
 
 
+#EXTINF:-1 group-title=" " tvg-logo="http://sh2854204.b.had.su/zz-clear.png",Здравствуйте!
+http://sh2854204.b.had.su/zz/Zdravstvuyte.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg",Solovjov Live
 https://a787200812-s27836.cdn.ngenix.net/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/105/logo_256_1655386697.png",Piervyj kanal
