@@ -5,6 +5,12 @@ http://sh2854204.b.had.su/zz/Zdravstvuyte.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://vecher-solovev.ru/wp-content/uploads/2021/07/1507solovev-live.jpg",Соловьев Live HD
 http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 
+#EXTINF:-1 group-title="Восток-Телеком" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
+http://193.233.9.49/streams/media/Rossiya_1/index.m3u8
+#EXTINF:-1 group-title="Восток-Телеком",Россия 24
+http://193.233.9.49/streams/media/Rossiya_24/index.m3u8
+#EXTINF:-1 group-title="Восток-Телеком" tvg-logo="http://epg.it999.ru/img/162.png" ,НТВ
+http://193.233.9.49/streams/media/NTV/index.m3u8
 
 #EXTINF:-1 group-title="Кино",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
@@ -24,13 +30,13 @@ http://81.177.139.240:8000/play/a004/index.m3u8
 http://81.177.139.240:8000/play/a00c/index.m3u8
 #EXTINF:-1 ,NickelodeonHD
 http://81.177.139.240:8000/play/a009/index.m3u8
-#EXTINF:-1 ,multimuzika
+#EXTINF:-1 ,Мультьмузыка
 http://81.177.139.240:8000/play/a007/index.m3u8
-#EXTINF:-1 ,orugie
+#EXTINF:-1 ,Оружие
 http://81.177.139.240:8000/play/a002/index.m3u8
-#EXTINF:-1 ,rigii
+#EXTINF:-1 ,Рыжий
 http://81.177.139.240:8000/play/a008/index.m3u8
-#EXTINF:-1 ,zagorodniiint
+#EXTINF:-1 ,Загородный
 http://81.177.139.240:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
