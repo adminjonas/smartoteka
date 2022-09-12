@@ -232,10 +232,7 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 https://stirr.ott-channels.stingray.com/155/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Exitos Del Momento HD
 https://stirr.ott-channels.stingray.com/190/master.m3u8
-#EXTINF:-1 group-title="Взрослые",Русская ночь
-http://46.174.83.66/Russkaya_Noch/video.m3u8
-#EXTINF:-1 group-title="Взрослые",Erox
-http://94.229.250.73:8008/play/a002
+
 #EXTINF:-1 group-title="Региональные",Вечерняя Москва HD
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 group-title="Региональные",12 канал HD
