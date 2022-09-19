@@ -5,7 +5,7 @@ http://sh2854204.b.had.su/zz/Zdravstvuyte.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://vecher-solovev.ru/wp-content/uploads/2021/07/1507solovev-live.jpg",Соловьев Live HD
 http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал 
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 https://1tv-live-gcore.gcdn.co/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="Восток-Телеком" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
 http://193.233.9.49/streams/media/Rossiya_1/index.m3u8
@@ -22,24 +22,6 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",VIP Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Ani
-http://81.177.139.240:8000/play/a006/index.m3u8
-#EXTINF:-1 ,ArsenalHD
-http://81.177.139.240:8000/play/a001/index.m3u8
-#EXTINF:-1 ,DiscoveryChannel
-http://81.177.139.240:8000/play/a004/index.m3u8
-#EXTINF:-1 ,Eurosport2HD
-http://81.177.139.240:8000/play/a00c/index.m3u8
-#EXTINF:-1 ,NickelodeonHD
-http://81.177.139.240:8000/play/a009/index.m3u8
-#EXTINF:-1 ,Мультьмузыка
-http://81.177.139.240:8000/play/a007/index.m3u8
-#EXTINF:-1 ,Оружие
-http://81.177.139.240:8000/play/a002/index.m3u8
-#EXTINF:-1 ,Рыжий
-http://81.177.139.240:8000/play/a008/index.m3u8
-#EXTINF:-1 ,Загородный
-http://81.177.139.240:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино",ДОРАМА HD
@@ -234,7 +216,6 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 https://stirr.ott-channels.stingray.com/155/master.m3u8
 #EXTINF:-1 group-title="Музыка",Stingray Exitos Del Momento HD
 https://stirr.ott-channels.stingray.com/190/master.m3u8
-
 #EXTINF:-1 group-title="Региональные",Вечерняя Москва HD
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 group-title="Региональные",12 канал HD
@@ -287,10 +268,6 @@ http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 http://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные",Астрахань 24
 http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Региональные",10 канал (Новокузнецк)
-http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Кузбасс 1
-http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Эфир ТВ
 http://89.232.125.186/online_tv_Efir/index.m3u8
 #EXTINF:-1 group-title="Региональные",Татарстан 24
