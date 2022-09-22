@@ -3,7 +3,7 @@
 #EXTINF:-1  tvg-logo="http://sh2854204.b.had.su/zz-clear.png",Здравствуйте!
 http://sh2854204.b.had.su/zz/Zdravstvuyte.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://vecher-solovev.ru/wp-content/uploads/2021/07/1507solovev-live.jpg",Соловьев Live HD
-http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 https://1tv-live-gcore.gcdn.co/dash-live12/streams/1tv/1tvdash.mpd
