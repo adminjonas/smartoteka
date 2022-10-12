@@ -6,7 +6,7 @@ http://sh2854204.b.had.su/zz/Zdravstvuyte.m3u8
 https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=perviytest
+http://78.25.155.47:1309/channel/ORT_HD.ts
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 http://mhd116.iptv2022.com/p/vO9NfcZLPO_arWXqQnmf9w,1663838865/streaming/1kanalott/324/1/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/984.png",Россия HD
