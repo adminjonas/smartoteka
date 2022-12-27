@@ -16,6 +16,21 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 
 
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1767.png",ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2765.png",Пятница HD
+https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/2271.png",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://epg.it999.ru/img2/743.png",РБК
+https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Кино",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",VIP Premiere
@@ -266,133 +281,3 @@ http://alpha.tv.online.tm/hls/ch005_400/index.m3u8
 http://alpha.tv.online.tm/hls/ch006_400/index.m3u8
 #EXTINF:-1 group-title="Туркменистан",TURKMENISTAN SKY
 http://alpha.tv.online.tm/hls/ch007_400/index.m3u8
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Россия 1
-http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Россия 24
-http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",ТНТ
-http://flu.ttk.mx:9090/TNT/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",ТНТ HD
-http://flu.ttk.mx:9090/TNT_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",НТВ
-http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",НТВ HD
-http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",РЕН ТВ
-http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",ТНТ4
-http://flu.ttk.mx:9090/TNT4/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Viasat History
-http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Охота и рыбалка
-http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Живая природа HD
-http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",TV1000
-http://flu.ttk.mx:9090/TV1000/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",2x2
-http://flu.ttk.mx:9090/2x2/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",360° HD
-http://flu.ttk.mx:9090/360_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",5 канал
-http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Авто 24
-http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Cinema
-http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Da Vinci
-http://flu.ttk.mx:9090/DaVinci/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Дом кино
-http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Домашние животные
-http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Москва доверие
-http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Драйв
-http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Еврокино
-http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Galaxy
-http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Иллюзион+
-http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Кинопоказ
-http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Комедия
-http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Мосфильм. Золотая коллекция
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Музыка первого
-http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",О!
-http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",O2TV
-http://flu.ttk.mx:9090/O2TV/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",ОТР
-http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Победа
-http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Поехали!
-http://flu.ttk.mx:9090/Poehali/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Пятница
-http://flu.ttk.mx:9090/Pyatnica/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Ратник
-http://flu.ttk.mx:9090/Ratnik/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Ретро
-http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Шансон ТВ
-http://flu.ttk.mx:9090/Shanson/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",СТС
-http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",СТС Love
-http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Супер
-http://flu.ttk.mx:9090/Super/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Театр
-http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Телекафе
-http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Мульт
-http://flu.ttk.mx:9090/Mult/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Мама
-http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Ani
-http://flu.ttk.mx:9090/Ani/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Уникум
-http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Disney
-http://flu.ttk.mx:9090/Disney/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Бобер
-http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Карусель
-http://flu.ttk.mx:9090/Karusel/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Мульт HD
-http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Тномер
-http://flu.ttk.mx:9090/Tnomer/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Точка отрыва
-http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",ТВ3
-http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",TV1000 Action
-http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",TV XXI
-http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",ТВЦ
-http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Ю
-http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Усадьба
-http://flu.ttk.mx:9090/Usadba/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Время
-http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Загородная жизнь
-http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Зоопарк
-http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Звезда
-http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Viasat Sport
-http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="Свифт Трейс (VPN)",Телеканал Футбол
-http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
