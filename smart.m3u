@@ -30,7 +30,12 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
 
 
-
+#EXTINF:-1 ,TV 1000
+http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,TV 1000 Action
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,TV 1000 Русское кино
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",VIP Premiere
