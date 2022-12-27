@@ -8,12 +8,12 @@ https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=playlist.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="Восток-Телеком" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 (+2)
-http://193.233.9.49/streams/media/Rossiya_1/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком",Россия 24
-http://193.233.9.49/streams/media/Rossiya_24/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком" tvg-logo="http://epg.it999.ru/img/162.png",НТВ
-http://193.233.9.49/streams/media/NTV/index.m3u8
+#EXTINF:-1 ,Россия 24
+http://dmi3y-tv.ru/hls/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png",НТВ
+http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png",НТВ HD
+http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 
 
 #EXTINF:-1 group-title="Кино",VIP Megahit
