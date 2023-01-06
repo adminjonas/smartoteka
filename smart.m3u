@@ -47,404 +47,126 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",VIP Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино",ДОРАМА
-https://sc.id-tv.kz/dorama_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино",ДОРАМА HD
-https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино",FOX HD
 
 
-#EXTINF:-1 group-title="Телепарк (VPN)",RTV International
-https://lb.telepark.tv/live/ru_rtvi/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",МИР HD
-https://lb.telepark.tv/live/ru_mir_premium_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",МИР
-https://lb.telepark.tv/live/ru_mir/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Культура
-https://lb.telepark.tv/live/ru_kultura/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",ОТР
-https://lb.telepark.tv/live/ru_otr/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",РЕТРО
-https://lb.telepark.tv/live/ru_retro/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",ТВ 3
-https://lb.telepark.tv/live/ru_tv3/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Discovery HD
-https://lb.telepark.tv/live/ru_discovery_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Discovery
-https://lb.telepark.tv/live/ru_discovery/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",DTX HD
-https://lb.telepark.tv/live/ru_dtx_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",HD Life
-https://lb.telepark.tv/live/ru_hdlife/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Nat Geo Wild HD
-https://lb.telepark.tv/live/ru_nat_geo_wild_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Nat Geo Wild
-https://lb.telepark.tv/live/ru_nat_geo_wild/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",National Geographic HD
-https://lb.telepark.tv/live/ru_nat_geo_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",National Geographic
-https://lb.telepark.tv/live/ru_nat_geo/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Russia Today Doc HD
-https://lb.telepark.tv/live/en_rt_doc_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",RTG HD
-https://lb.telepark.tv/live/ru_rtg_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",RTG
-https://lb.telepark.tv/live/ru_rtg/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Travel+Adventure HD
-https://lb.telepark.tv/live/ru_traver_adventure_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",365 дней
-https://lb.telepark.tv/live/ru_365dnej/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Вопросы и ответы
-https://lb.telepark.tv/live/ru_voprosi_otveti/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Время
-https://lb.telepark.tv/live/ru_vremja/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Домашние животные
-https://lb.telepark.tv/live/ru_dom_zhivotnie/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Здоровое ТВ
-https://lb.telepark.tv/live/ru_zdorovoe_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Кто есть кто
-https://lb.telepark.tv/live/ru_kto_kto/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Охотник и Рыболов HD
-https://lb.telepark.tv/live/ru_ohotnik_ribolov_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Охота и рыбалка
-https://lb.telepark.tv/live/ru_ohota_ribalka/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Рыболов
-https://lb.telepark.tv/live/ru_ohotnik_ribolov/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Перпетуум Мобиле HD
-https://lb.telepark.tv/live/ru_per_mobile_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Пёс и Ко
-https://lb.telepark.tv/live/ru_pesiko/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Психология
-https://lb.telepark.tv/live/ru_psihologia21/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Совершенно секретно
-https://lb.telepark.tv/live/ru_sov_sekretno/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Союз
-https://lb.telepark.tv/live/ru_sojuz/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Спас
-https://lb.telepark.tv/live/ru_spas/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",ТБН
-https://lb.telepark.tv/live/ru_tbn/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Телепутешествия
-https://lb.telepark.tv/live/ru_teleputeshestvie/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Animal Planet
-https://lb.telepark.tv/live/ru_animal_planet/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Discovery ID Xtra
-https://lb.telepark.tv/live/ru_id_xtra/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Discovery Science
-https://lb.telepark.tv/live/ru_discovery_science/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",DocuBox
-https://lb.telepark.tv/live/ru_docubox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Ocean TV
-https://lb.telepark.tv/live/ru_ocean/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Outdoor Channel
-https://lb.telepark.tv/live/ru_outdoor_channel/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Дом кино Премиум HD
-https://lb.telepark.tv/live/ru_dom_kino_prem_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Дом кино
-https://lb.telepark.tv/live/ru_dom_kino/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Дорама HD
-https://lb.telepark.tv/live/ru_dorama_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Дорама
-https://lb.telepark.tv/live/ru_dorama/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Детское кино HD
-https://lb.telepark.tv/live/ru_detskoe_kino/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Кинопремьера HD
-https://lb.telepark.tv/live/ru_kinopremjera/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Киносезон HD
-https://lb.telepark.tv/live/ru_kinosezon_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Классика кино HD
-https://lb.telepark.tv/live/ru_klassika_kino_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Комедийное HD
-https://lb.telepark.tv/live/ru_komedijnoe_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Любимое HD
-https://lb.telepark.tv/live/ru_lubimoe_kino_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Мужское кино HD
-https://lb.telepark.tv/live/ru_muzhskoe_kino_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Остросюжетное HD
-https://lb.telepark.tv/live/ru_ostrosuzhet_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Шокирующее HD
-https://lb.telepark.tv/live/ru_shok_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Bollywood HD
-https://lb.telepark.tv/live/ru_bollywood_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",FOX HD
-https://lb.telepark.tv/live/ru_fox_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",FOX
-https://lb.telepark.tv/live/ru_fox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Fox Life HD
-https://lb.telepark.tv/live/ru_fox_life_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Fox Life
-https://lb.telepark.tv/live/ru_fox_life/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Еврокино
-https://lb.telepark.tv/live/ru_evrokino/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Иллюзион+
-https://lb.telepark.tv/live/ru_illuzion_plus/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Индийское кино
-https://lb.telepark.tv/live/ru_indijskoe_kino/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Кинокомедия
-https://lb.telepark.tv/live/ru_kinokomedia/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Киномикс
-https://lb.telepark.tv/live/ru_kinomiks/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Киносвидание
-https://lb.telepark.tv/live/ru_kinosvidanie/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Киносемья
-https://lb.telepark.tv/live/ru_kinosemja/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Киносерия
-https://lb.telepark.tv/live/ru_kinoserija/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Киноужас
-https://lb.telepark.tv/live/ru_kinouzhas/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Кинохит
-https://lb.telepark.tv/live/ru_kinohit/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Наше новое кино
-https://lb.telepark.tv/live/ru_nashe_novoe_kino/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Победа
-https://lb.telepark.tv/live/ru_pobeda/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Мир сериала
-https://lb.telepark.tv/live/ru_mir_seriala/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Наше любимое кино
-https://lb.telepark.tv/live/ru_lubimoe_kino/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Русский Иллюзион
-https://lb.telepark.tv/live/ru_rus_illuzion/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",СТС Love
-https://lb.telepark.tv/live/ru_sts_love/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",FilmBox
-https://lb.telepark.tv/live/ru_filmbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",.red
-https://lb.telepark.tv/live/ru_sony_ent/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",.sci-fi
-https://lb.telepark.tv/live/ru_sony_scifi/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",TV XXI
-https://lb.telepark.tv/live/ru_tv21/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",TV1000
-https://lb.telepark.tv/live/ru_tv1000/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",TV1000 Русское кино
-https://lb.telepark.tv/live/ru_tv1000_rus/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",TV1000 Action
-https://lb.telepark.tv/live/ru_tv1000_action/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Авто 24 HD
-https://lb.telepark.tv/live/ru_auto24_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Авто 24
-https://lb.telepark.tv/live/ru_auto24/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Домашний HD
-https://lb.telepark.tv/live/ru_domashnij_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Домашний
-https://lb.telepark.tv/live/ru_domashnij/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Еда ТВ HD
-https://lb.telepark.tv/live/ru_eda_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Еда ТВ
-https://lb.telepark.tv/live/ru_eda_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Кухня HD
-https://lb.telepark.tv/live/ru_kuhnja_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Кухня
-https://lb.telepark.tv/live/ru_kuhnja/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Телеканал 360 HD
-https://lb.telepark.tv/live/ru_360_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Телеканал 360
-https://lb.telepark.tv/live/ru_360/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Fashion TV UHD
-https://lb.telepark.tv/live/en_fashion_uhd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Fashion TV
-https://lb.telepark.tv/live/ru_fashion/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",TLC HD
-https://lb.telepark.tv/live/ru_tlc_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",TLC
-https://lb.telepark.tv/live/ru_tlc/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",2x2
-https://lb.telepark.tv/live/ru_2x2/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",7D7
-https://lb.telepark.tv/live/ru_7d7/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",8 Канал
-https://lb.telepark.tv/live/ru_8kanal/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Авто Плюс
-https://lb.telepark.tv/live/ru_avto_plus/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Бобёр
-https://lb.telepark.tv/live/ru_bober/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",ДРАЙВ
-https://lb.telepark.tv/live/ru_drive/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Живи
-https://lb.telepark.tv/live/ru_zhivi/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",КВН ТВ
-https://lb.telepark.tv/live/ru_kvn_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Новый мир
-https://lb.telepark.tv/live/ru_novij_mir/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Оружие
-https://lb.telepark.tv/live/ru_oruzhie/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Поехали!
-https://lb.telepark.tv/live/ru_poehali/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Пятница!
-https://lb.telepark.tv/live/ru_pjatnica/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",ТДК
-https://lb.telepark.tv/live/ru_tdk/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Театр
-https://lb.telepark.tv/live/ru_teatr/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Телекафе
-https://lb.telepark.tv/live/ru_telekafe/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Точка ТВ
-https://lb.telepark.tv/live/ru_tochka_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Усадьба
-https://lb.telepark.tv/live/ru_usadba/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Че
-https://lb.telepark.tv/live/ru_che/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Ю
-https://lb.telepark.tv/live/ru_u_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Food Channel
-https://lb.telepark.tv/live/ru_food_channel/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",World Fashion
-https://lb.telepark.tv/live/ru_world_fashion/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",1+1 HD
-https://lb.telepark.tv/live/ua_1plus1_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",1+1
-https://lb.telepark.tv/live/ua_1plus1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",2+2
-https://lb.telepark.tv/live/ua_2plus2/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Интер
-https://lb.telepark.tv/live/ua_inter/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Мега
-https://lb.telepark.tv/live/ua_mega/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Первый деловой
-https://lb.telepark.tv/live/ua_pershij_delovoj/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Прямий
-https://lb.telepark.tv/live/ua_pramiy/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",ТЕТ
-https://lb.telepark.tv/live/ua_tet/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Украина
-https://lb.telepark.tv/live/ua_ukraina/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Enter Film
-https://lb.telepark.tv/live/ua_enterfilm/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",K1
-https://lb.telepark.tv/live/ua_k1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Ukraine 1
-https://lb.telepark.tv/live/ua_ukraine1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Ukraine 2
-https://lb.telepark.tv/live/ua_ukraine2/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Kvartal TV
-https://lb.telepark.tv/live/ua_kvartal/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",СТС Kids HD
-https://lb.telepark.tv/live/ru_sts_kids_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Nickelodeon HD
-https://lb.telepark.tv/live/ru_nickelodeon_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Nickelodeon
-https://lb.telepark.tv/live/ru_nickelodeon/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Nickelodeon Junior
-https://lb.telepark.tv/live/ru_nick_jr/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",В гостях у сказки
-https://lb.telepark.tv/live/ru_uskazki/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Детский мир
-https://lb.telepark.tv/live/ru_det_mir_teleklub/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Карусель
-https://lb.telepark.tv/live/ru_karusel/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Мультиландия
-https://lb.telepark.tv/live/ru_multilandija/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Мультсезон HD
-https://lb.telepark.tv/live/ru_multsezon_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",О!
-https://lb.telepark.tv/live/ru_o/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Пиксель
-https://lb.telepark.tv/live/ru_pixel/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Смайлик ТВ
-https://lb.telepark.tv/live/ru_smilik/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Уникум
-https://lb.telepark.tv/live/ru_detskij/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Boomerang
-https://lb.telepark.tv/live/ru_boomerang/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Da Vinci Learning
-https://lb.telepark.tv/live/ru_davinci_learning/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Disney
-https://lb.telepark.tv/live/ru_disney/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Gulli Girl
-https://lb.telepark.tv/live/ru_gulli_girl/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",JimJam
-https://lb.telepark.tv/live/ru_jimjam/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",TiJi
-https://lb.telepark.tv/live/ru_tiji/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",1HD
-https://lb.telepark.tv/live/ru_1hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",AIVA HD
-https://lb.telepark.tv/live/ru_aiva_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Europa Plus TV HD
-https://lb.telepark.tv/live/ru_europa_plus_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Europa Plus TV
-https://lb.telepark.tv/live/ru_europa_plus/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Mezzo Live HD
-https://lb.telepark.tv/live/en_mezzo_live_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Mezzo
-https://lb.telepark.tv/live/en_mezzo/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Stingray iConcerts HD
-https://lb.telepark.tv/live/en_iconcerts_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Жара
-https://lb.telepark.tv/live/ru_zhara/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Ля-Минор
-https://lb.telepark.tv/live/ru_la_minor/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Муз ТВ
-https://lb.telepark.tv/live/ru_muztv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",МузСоюз
-https://lb.telepark.tv/live/ru_muzsojuz/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Музыка Первого
-https://lb.telepark.tv/live/ru_muzika_pervogo/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Шансон ТВ
-https://lb.telepark.tv/live/ru_shanson/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Bridge TV Deluxe HD
-https://lb.telepark.tv/live/ru_bridge_deluxe_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Bridge TV
-https://lb.telepark.tv/live/ru_bridge_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Bridge TV Русский Хит
-https://lb.telepark.tv/live/ru_bridge_ruhit/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Bridge Classic
-https://lb.telepark.tv/live/ru_bridge_classic/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",VH1
-https://lb.telepark.tv/live/ru_vh1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Конный мир HD
-https://lb.telepark.tv/live/ru_konnij_mir_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! ТВ HD
-https://lb.telepark.tv/live/ru_match_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! ТВ
-https://lb.telepark.tv/live/ru_match/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Боец
-https://lb.telepark.tv/live/ru_boec/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Премьер
-https://lb.telepark.tv/live/ru_nash_futbol/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Арена HD
-https://lb.telepark.tv/live/ru_match_arena_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Арена
-https://lb.telepark.tv/live/ru_match_arena/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Игра HD
-https://lb.telepark.tv/live/ru_match_igra_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Игра
-https://lb.telepark.tv/live/ru_match_igra/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Футбол 1 HD
-https://lb.telepark.tv/live/ru_match_futbol1_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Футбол 1
-https://lb.telepark.tv/live/ru_match_futbol1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Футбол 2 HD
-https://lb.telepark.tv/live/ru_match_futbol2_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Футбол 2
-https://lb.telepark.tv/live/ru_match_futbol2/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Футбол 3 HD
-https://lb.telepark.tv/live/ru_match_futbol3_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Матч! Футбол 3
-https://lb.telepark.tv/live/ru_match_futbol3/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Старт HD
-https://lb.telepark.tv/live/ru_start_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Телеканал Футбол HD
-https://lb.telepark.tv/live/ru_tk_futbol_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Телеканал Футбол
-https://lb.telepark.tv/live/ru_tk_futbol/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Eurosport 1 HD
-https://lb.telepark.tv/live/ru_eurosport_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Eurosport 1
-https://lb.telepark.tv/live/ru_eurosport1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Setanta Sports 1 HD
-https://lb.telepark.tv/live/ru_setanta_sports_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Бокс ТВ
-https://lb.telepark.tv/live/ru_boks_tv/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Спорт 1
-https://lb.telepark.tv/live/ua_sport1/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Extreme Sports HD
-https://lb.telepark.tv/live/ru_extreme_sports/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",Fast&FunBox
-https://lb.telepark.tv/live/ru_fastfunbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",FightBox
-https://lb.telepark.tv/live/ru_fightbox/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
-#EXTINF:-1 group-title="Телепарк (VPN)",M-1 Global
-https://lb.telepark.tv/live/ru_m1global/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
 
-
+#EXTINF:-1 group-title="Lime HD" , Карусель
+https://mhd116.iptv2022.com/p/Uv--OrZYG_l2vbsgA4nxAA,1673035331/streaming/karusel/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , ОТР
+https://mhd116.iptv2022.com/p/3ByPAFXlRod_2hKrY-oafw,1673035331/streaming/otr/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , ТВЦ
+https://mhd116.iptv2022.com/p/PYE17XXPRWIXVJKEn6jodg,1673035332/streaming/tvc/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Спас
+https://mhd116.iptv2022.com/p/1YENwb8Fo_gyRH5FGaMOeA,1673035333/streaming/spas/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , СТС
+https://mhd116.iptv2022.com/p/tXO8_0JkOctemuMtr_czTQ,1673035334/streaming/stsott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Домашний
+https://mhd116.iptv2022.com/p/4pDtB_WWsq1IlgEUDbJVLA,1673035335/streaming/domashiyott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , ТВ3
+https://mhd116.iptv2022.com/p/h7JGV-qI7Q_e6_Zi1AWGvQ,1673035335/streaming/tv3ott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Пятница
+https://mhd116.iptv2022.com/p/R0fj05CjEaAVGbinwNhu-Q,1673035336/streaming/pyatnicaott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Звезда
+https://mhd116.iptv2022.com/p/3B2B73DmilGpDThN6VABiA,1673035336/streaming/zvezda/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Мир
+https://mhd116.iptv2022.com/p/2g-0pv0z_adZ0s7OOPM8wQ,1673035337/streaming/mirott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Муз ТВ
+https://mhd116.iptv2022.com/p/lbqJc97jOJaOwTg1sbdsGQ,1673035338/streaming/muztv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Europa Plus TV
+https://mhd116.iptv2022.com/p/zM9UjsyMTLmHJW-O13F2ow,1673035339/streaming/evropaplus/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , ТНТ Music
+https://mhd116.iptv2022.com/p/Hqhf0FOYQ3eefT349fpl7Q,1673035340/streaming/tntmusic/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Bridge
+https://mhd116.iptv2022.com/p/h7NOvDWEEQH-9azqaPk4jQ,1673035340/streaming/bridgetv/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Bridge Deluxe
+https://mhd116.iptv2022.com/p/phd4Tb4NiJgeby_pGgqvog,1673035341/streaming/br_delux/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Bridge Русский хит
+https://mhd116.iptv2022.com/p/Wd3zcM6bTykwzWZipsa1og,1673035341/streaming/br_rushit/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Bridge Classic
+https://mhd116.iptv2022.com/p/MWp7moYRRLOPZe0ruo31tw,1673035342/streaming/br_classic/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Bridge Hits
+https://mhd116.iptv2022.com/p/Hkdi7A06JFOEFC6TXOZYKg,1673035343/streaming/br_dance/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Russian music box
+https://mhd116.iptv2022.com/p/TUDQOB-hSKz1OofmTtQOWw,1673035343/streaming/musicbox/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Russian Music Box HD
+https://mhd116.iptv2022.com/p/xoJE_u4F4olUbE-TJ1JbBA,1673035344/streaming/musicbox/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Ю
+https://mhd116.iptv2022.com/p/pYow3y75I-XjvEFZ3SHyTg,1673035345/streaming/channelu/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Солнце
+https://mhd116.iptv2022.com/p/uTIbgwepgt5NYN3WVke6Pg,1673035345/streaming/disney/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , 2x2
+https://mhd116.iptv2022.com/p/h2ShNKNYUynL7CiVI01eJQ,1673035346/streaming/2x2/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Суббота!
+https://mhd116.iptv2022.com/p/zKFwHH9jK1ajoTv8Gyk4Nw,1673035347/streaming/superott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , СТС Love
+https://mhd116.iptv2022.com/p/NJQ42V8G_AWhhirWI8AbCg,1673035348/streaming/stsloveott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Че
+https://mhd116.iptv2022.com/p/AO-DJHwyyf7zIV01Gsgs8A,1673035349/streaming/cheott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Мир HD
+https://mhd116.iptv2022.com/p/yqBL64olp8VITNH6mxC4kQ,1673035350/streaming/mirott/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Санкт-Петербург
+https://mhd116.iptv2022.com/p/gLZsg232yyaHfocvKilm0Q,1673035352/streaming/topspb/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , 8 канал
+https://mhd116.iptv2022.com/p/Bwdwr8PcqZvppbpkfCDgPA,1673035352/streaming/8krasnoyarsk/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Саратов 24
+https://mhd116.iptv2022.com/p/prWke8NpXka3CyOJ5ilxmQ,1673035353/streaming/saratov24/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Москва 24
+https://mhd116.iptv2022.com/p/6_mNWw8nXrhLdKcOXe6hww,1673035354/streaming/moscow24/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Известия
+https://mhd116.iptv2022.com/p/aUkL00GhNQMX8D7B7DrkZQ,1673035354/streaming/izvestia/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Башкортостан 24
+https://mhd116.iptv2022.com/p/-FQotS7SNL9Cc4l4XiPjSA,1673035355/streaming/vgtrkbash/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , ОТВ24
+https://mhd116.iptv2022.com/p/IBG8DHfuMamoIdcf2kBAPQ,1673035356/streaming/otvekb/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Russia Today HD
+https://mhd116.iptv2022.com/p/I2UhnukxC4KpmV5IM9GGJg,1673035356/streaming/rt/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , RT Д HD
+https://mhd116.iptv2022.com/p/aO2bEHnczA-POGo3bga8aw,1673035357/streaming/rtdhd/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Нано ТВ
+https://mhd116.iptv2022.com/p/cxa7Hp1brMQ-zBF9m648DQ,1673035358/streaming/nano/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Luxury
+https://mhd116.iptv2022.com/p/yTGc5jCNCmURiDxmRzxYEQ,1673035359/streaming/luxury/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , HD Media
+https://mhd116.iptv2022.com/p/b8dsdCn7jVfX13VjgK3NEw,1673035359/streaming/hdmedia/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , КиноМеню HD
+https://mhd116.iptv2022.com/p/41f2Ud6RHxeeBlxzldInDw,1673035360/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Неизвестная планета
+https://mhd116.iptv2022.com/p/Zvohq9cD4ykJPgxr-Taz0Q,1673035360/streaming/np/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Терра Инкогнита
+https://mhd116.iptv2022.com/p/kH7h4dxLNIMFiuSkFwFwTw,1673035361/streaming/terra/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Классика Кино
+https://mhd116.iptv2022.com/p/-y7w-lY_Q23tnuFDjeH7XQ,1673035362/streaming/k_kino/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Советское кино
+https://mhd116.iptv2022.com/p/qVMkwapAFv5AKfExJeb8iQ,1673035362/streaming/sovietmovs/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Советские мультфильмы
+https://mhd116.iptv2022.com/p/xD1xFP0YdhXjqxhv64HBIQ,1673035363/streaming/rusmult/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Сказки Зайки
+https://mhd116.iptv2022.com/p/P3hOWmLP8BDDglldewcSCQ,1673035364/streaming/zaj/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Joy Cook
+https://mhd116.iptv2022.com/p/6liQMZDclMUxfqC_jODd_w,1673035364/streaming/joycook/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Радость моя
+https://mhd116.iptv2022.com/p/W-0-sXYlhdh2do8jpvZdZw,1673035365/streaming/radost/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Про Бизнес
+https://mhd116.iptv2022.com/p/OIzHhY3Ba2NLG5ENYAoeGQ,1673035366/streaming/probusiness/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Точка ТВ
+https://mhd116.iptv2022.com/p/rJO7RwEwNlh-V4wtrcvLDg,1673035366/streaming/tochka/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Наш дом
+https://mhd116.iptv2022.com/p/a1sVK0YG0TI1c-fEiMoDVw,1673035367/streaming/11channel/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Прибой
+https://mhd116.iptv2022.com/p/KJoGJxsI9q90pGqSeY0Z2g,1673035368/streaming/priboy/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , ТК-КВАНТ
+https://mhd116.iptv2022.com/p/fbie6MV_cI5WeWg07Bv3HA,1673035368/streaming/tm-kvant/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , ТНВ-Планета
+https://mhd116.iptv2022.com/p/yGVVIDA2aBEsi3PxDS54Yg,1673035369/streaming/tnv-planet/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Майдан
+https://mhd116.iptv2022.com/p/3ssLnALD44wxOtVBwFx5jg,1673035370/streaming/maidan/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Шаян
+https://mhd116.iptv2022.com/p/AOwq_2-JQyStWWEM9DOIKA,1673035370/streaming/shayan/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , БСТ
+https://mhd116.iptv2022.com/p/gTal58FL4UCHRnGONhtzgQ,1673035371/streaming/bst/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Тамыр
+https://mhd116.iptv2022.com/p/plOcmm-ZWSLvBgqNHHr-4g,1673035372/streaming/tamir/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Курай-ТВ
+https://mhd116.iptv2022.com/p/z3_2XVL3O-asd-060C4xcw,1673035372/streaming/curai/324/1/index.m3u8
+#EXTINF:-1 group-title="Lime HD" , Салям
+https://mhd116.iptv2022.com/p/tcE-CoydCsXF3qEgIu1GwA,1673035373/streaming/salyam/324/1/index.m3u8
