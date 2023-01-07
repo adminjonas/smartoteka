@@ -50,123 +50,329 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Lime HD" , Карусель
-https://mhd116.iptv2022.com/p/Uv--OrZYG_l2vbsgA4nxAA,1673035331/streaming/karusel/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , ОТР
-https://mhd116.iptv2022.com/p/3ByPAFXlRod_2hKrY-oafw,1673035331/streaming/otr/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , ТВЦ
-https://mhd116.iptv2022.com/p/PYE17XXPRWIXVJKEn6jodg,1673035332/streaming/tvc/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Спас
-https://mhd116.iptv2022.com/p/1YENwb8Fo_gyRH5FGaMOeA,1673035333/streaming/spas/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , СТС
-https://mhd116.iptv2022.com/p/tXO8_0JkOctemuMtr_czTQ,1673035334/streaming/stsott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Домашний
-https://mhd116.iptv2022.com/p/4pDtB_WWsq1IlgEUDbJVLA,1673035335/streaming/domashiyott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , ТВ3
-https://mhd116.iptv2022.com/p/h7JGV-qI7Q_e6_Zi1AWGvQ,1673035335/streaming/tv3ott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Пятница
-https://mhd116.iptv2022.com/p/R0fj05CjEaAVGbinwNhu-Q,1673035336/streaming/pyatnicaott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Звезда
-https://mhd116.iptv2022.com/p/3B2B73DmilGpDThN6VABiA,1673035336/streaming/zvezda/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Мир
-https://mhd116.iptv2022.com/p/2g-0pv0z_adZ0s7OOPM8wQ,1673035337/streaming/mirott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Муз ТВ
-https://mhd116.iptv2022.com/p/lbqJc97jOJaOwTg1sbdsGQ,1673035338/streaming/muztv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Europa Plus TV
-https://mhd116.iptv2022.com/p/zM9UjsyMTLmHJW-O13F2ow,1673035339/streaming/evropaplus/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , ТНТ Music
-https://mhd116.iptv2022.com/p/Hqhf0FOYQ3eefT349fpl7Q,1673035340/streaming/tntmusic/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Bridge
-https://mhd116.iptv2022.com/p/h7NOvDWEEQH-9azqaPk4jQ,1673035340/streaming/bridgetv/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Bridge Deluxe
-https://mhd116.iptv2022.com/p/phd4Tb4NiJgeby_pGgqvog,1673035341/streaming/br_delux/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Bridge Русский хит
-https://mhd116.iptv2022.com/p/Wd3zcM6bTykwzWZipsa1og,1673035341/streaming/br_rushit/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Bridge Classic
-https://mhd116.iptv2022.com/p/MWp7moYRRLOPZe0ruo31tw,1673035342/streaming/br_classic/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Bridge Hits
-https://mhd116.iptv2022.com/p/Hkdi7A06JFOEFC6TXOZYKg,1673035343/streaming/br_dance/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Russian music box
-https://mhd116.iptv2022.com/p/TUDQOB-hSKz1OofmTtQOWw,1673035343/streaming/musicbox/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Russian Music Box HD
-https://mhd116.iptv2022.com/p/xoJE_u4F4olUbE-TJ1JbBA,1673035344/streaming/musicbox/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Ю
-https://mhd116.iptv2022.com/p/pYow3y75I-XjvEFZ3SHyTg,1673035345/streaming/channelu/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Солнце
-https://mhd116.iptv2022.com/p/uTIbgwepgt5NYN3WVke6Pg,1673035345/streaming/disney/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , 2x2
-https://mhd116.iptv2022.com/p/h2ShNKNYUynL7CiVI01eJQ,1673035346/streaming/2x2/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Суббота!
-https://mhd116.iptv2022.com/p/zKFwHH9jK1ajoTv8Gyk4Nw,1673035347/streaming/superott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , СТС Love
-https://mhd116.iptv2022.com/p/NJQ42V8G_AWhhirWI8AbCg,1673035348/streaming/stsloveott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Че
-https://mhd116.iptv2022.com/p/AO-DJHwyyf7zIV01Gsgs8A,1673035349/streaming/cheott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Мир HD
-https://mhd116.iptv2022.com/p/yqBL64olp8VITNH6mxC4kQ,1673035350/streaming/mirott/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Санкт-Петербург
-https://mhd116.iptv2022.com/p/gLZsg232yyaHfocvKilm0Q,1673035352/streaming/topspb/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , 8 канал
-https://mhd116.iptv2022.com/p/Bwdwr8PcqZvppbpkfCDgPA,1673035352/streaming/8krasnoyarsk/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Саратов 24
-https://mhd116.iptv2022.com/p/prWke8NpXka3CyOJ5ilxmQ,1673035353/streaming/saratov24/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Москва 24
-https://mhd116.iptv2022.com/p/6_mNWw8nXrhLdKcOXe6hww,1673035354/streaming/moscow24/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Известия
-https://mhd116.iptv2022.com/p/aUkL00GhNQMX8D7B7DrkZQ,1673035354/streaming/izvestia/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Башкортостан 24
-https://mhd116.iptv2022.com/p/-FQotS7SNL9Cc4l4XiPjSA,1673035355/streaming/vgtrkbash/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , ОТВ24
-https://mhd116.iptv2022.com/p/IBG8DHfuMamoIdcf2kBAPQ,1673035356/streaming/otvekb/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Russia Today HD
-https://mhd116.iptv2022.com/p/I2UhnukxC4KpmV5IM9GGJg,1673035356/streaming/rt/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , RT Д HD
-https://mhd116.iptv2022.com/p/aO2bEHnczA-POGo3bga8aw,1673035357/streaming/rtdhd/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Нано ТВ
-https://mhd116.iptv2022.com/p/cxa7Hp1brMQ-zBF9m648DQ,1673035358/streaming/nano/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Luxury
-https://mhd116.iptv2022.com/p/yTGc5jCNCmURiDxmRzxYEQ,1673035359/streaming/luxury/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , HD Media
-https://mhd116.iptv2022.com/p/b8dsdCn7jVfX13VjgK3NEw,1673035359/streaming/hdmedia/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , КиноМеню HD
-https://mhd116.iptv2022.com/p/41f2Ud6RHxeeBlxzldInDw,1673035360/streaming/kinomenu/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Неизвестная планета
-https://mhd116.iptv2022.com/p/Zvohq9cD4ykJPgxr-Taz0Q,1673035360/streaming/np/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Терра Инкогнита
-https://mhd116.iptv2022.com/p/kH7h4dxLNIMFiuSkFwFwTw,1673035361/streaming/terra/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Классика Кино
-https://mhd116.iptv2022.com/p/-y7w-lY_Q23tnuFDjeH7XQ,1673035362/streaming/k_kino/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Советское кино
-https://mhd116.iptv2022.com/p/qVMkwapAFv5AKfExJeb8iQ,1673035362/streaming/sovietmovs/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Советские мультфильмы
-https://mhd116.iptv2022.com/p/xD1xFP0YdhXjqxhv64HBIQ,1673035363/streaming/rusmult/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Сказки Зайки
-https://mhd116.iptv2022.com/p/P3hOWmLP8BDDglldewcSCQ,1673035364/streaming/zaj/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Joy Cook
-https://mhd116.iptv2022.com/p/6liQMZDclMUxfqC_jODd_w,1673035364/streaming/joycook/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Радость моя
-https://mhd116.iptv2022.com/p/W-0-sXYlhdh2do8jpvZdZw,1673035365/streaming/radost/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Про Бизнес
-https://mhd116.iptv2022.com/p/OIzHhY3Ba2NLG5ENYAoeGQ,1673035366/streaming/probusiness/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Точка ТВ
-https://mhd116.iptv2022.com/p/rJO7RwEwNlh-V4wtrcvLDg,1673035366/streaming/tochka/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Наш дом
-https://mhd116.iptv2022.com/p/a1sVK0YG0TI1c-fEiMoDVw,1673035367/streaming/11channel/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Прибой
-https://mhd116.iptv2022.com/p/KJoGJxsI9q90pGqSeY0Z2g,1673035368/streaming/priboy/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , ТК-КВАНТ
-https://mhd116.iptv2022.com/p/fbie6MV_cI5WeWg07Bv3HA,1673035368/streaming/tm-kvant/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , ТНВ-Планета
-https://mhd116.iptv2022.com/p/yGVVIDA2aBEsi3PxDS54Yg,1673035369/streaming/tnv-planet/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Майдан
-https://mhd116.iptv2022.com/p/3ssLnALD44wxOtVBwFx5jg,1673035370/streaming/maidan/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Шаян
-https://mhd116.iptv2022.com/p/AOwq_2-JQyStWWEM9DOIKA,1673035370/streaming/shayan/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , БСТ
-https://mhd116.iptv2022.com/p/gTal58FL4UCHRnGONhtzgQ,1673035371/streaming/bst/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Тамыр
-https://mhd116.iptv2022.com/p/plOcmm-ZWSLvBgqNHHr-4g,1673035372/streaming/tamir/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Курай-ТВ
-https://mhd116.iptv2022.com/p/z3_2XVL3O-asd-060C4xcw,1673035372/streaming/curai/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime HD" , Салям
-https://mhd116.iptv2022.com/p/tcE-CoydCsXF3qEgIu1GwA,1673035373/streaming/salyam/324/1/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Первый канал HD
+http://89.104.114.18:8080/ort_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Первый канал
+http://89.104.114.18:8080/ort_msk/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Рен ТВ
+http://89.104.114.18:8080/ren-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТНТ
+http://89.104.114.18:8080/tnt/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТНТ HD
+http://89.104.114.18:8080/tnt_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТНТ4
+http://89.104.114.18:8080/tnt-4/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ
+http://89.104.114.18:8080/ntv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ HD
+http://89.104.114.18:8080/ntv_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ Хит
+http://89.104.114.18:8080/ntv_hit/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ Право
+http://89.104.114.18:8080/ntv_pravo/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ Сериал
+http://89.104.114.18:8080/ntv_serial/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",НТВ Стиль
+http://89.104.114.18:8080/ntv_stil/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Индийское кино
+http://89.104.114.18:8080/indiya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Глазами туриста HD
+http://89.104.114.18:8080/glazami_turista_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",HD Life
+http://89.104.114.18:8080/hd-life/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Моя планета
+http://89.104.114.18:8080/moya_planeta/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Home 4k
+http://89.104.114.18:8080/home4k/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",История
+http://89.104.114.18:8080/istoriya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Охотник и рыболов HD
+http://89.104.114.18:8080/ohot_i_rybolov_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Охотник и рыболов
+http://89.104.114.18:8080/ohotnik/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Оружие
+http://89.104.114.18:8080/oruzhie/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Планета HD
+http://89.104.114.18:8080/planeta_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",TERRA
+http://89.104.114.18:8080/natgeo/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",TERRA HD
+http://89.104.114.18:8080/natgeo_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",RTG TV
+http://89.104.114.18:8080/rtg/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",RTG HD
+http://89.104.114.18:8080/rtg_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Техно 24 
+http://89.104.114.18:8080/t24/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Тайна
+http://89.104.114.18:8080/taina/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Телепутешествия
+http://89.104.114.18:8080/teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Приключения HD
+http://89.104.114.18:8080/teletravel_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Живая планета
+http://89.104.114.18:8080/zhivaya-planeta/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Нано ТВ HD
+http://89.104.114.18:8080/nano_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Нано ТВ
+http://89.104.114.18:8080/nano-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Живая природа HD
+http://89.104.114.18:8080/jivaya_priroda_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",7tv
+http://89.104.114.18:8080/7tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",2x2
+http://89.104.114.18:8080/2x2/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",365 дней
+http://89.104.114.18:8080/365_dnej/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",8 канал
+http://89.104.114.18:8080/8kanal/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Amedia 1
+http://89.104.114.18:8080/amedia/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Amedia Hit HD
+http://89.104.114.18:8080/amedia_hit_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Amedia Premium HD
+http://89.104.114.18:8080/amedia_premium_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Arirang
+http://89.104.114.18:8080/arirang/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Авто плюс
+http://89.104.114.18:8080/avto_plus/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bloomberg
+http://89.104.114.18:8080/bloomberg/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Че
+http://89.104.114.18:8080/che/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Комедия
+http://89.104.114.18:8080/comedy/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Дом кино
+http://89.104.114.18:8080/dom_kino/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Домашний
+http://89.104.114.18:8080/domashniy/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Еда HD
+http://89.104.114.18:8080/eda_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Европа плюс ТВ
+http://89.104.114.18:8080/europa-plus-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Fan HD
+http://89.104.114.18:8080/fan/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Fashion one HD
+http://89.104.114.18:8080/fashion_one_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кинеко
+http://89.104.114.18:8080/fox/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кинеко HD
+http://89.104.114.18:8080/fox_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Сапфир
+http://89.104.114.18:8080/fox-life/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Калейдоскоп ТВ
+http://89.104.114.18:8080/izvestiya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Живи
+http://89.104.114.18:8080/jivi/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Калейдоскоп ТВ
+http://89.104.114.18:8080/kaleydoskop/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кино ТВ HD
+http://89.104.114.18:8080/kino_tv_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кинохит HD
+http://89.104.114.18:8080/kinohit/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",kinojam1 HD
+http://89.104.114.18:8080/kinojam1/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",kinojam2 HD
+http://89.104.114.18:8080/kinojam2/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Киномикс HD
+http://89.104.114.18:8080/kinomix/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кинопоказ
+http://89.104.114.18:8080/kinopokaz/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Киносат
+http://89.104.114.18:8080/kinosat/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Киносемья HD
+http://89.104.114.18:8080/kinosemya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Киносвидание HD
+http://89.104.114.18:8080/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Киноужас
+http://89.104.114.18:8080/kinoujas/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кинокомедия HD
+http://89.104.114.18:8080/komediya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Киносерия
+http://89.104.114.18:8080/mnogo-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Наше кино
+http://89.104.114.18:8080/nashe-kino/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Наше новое кино
+http://89.104.114.18:8080/nashe-novoe-kino/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Конный мир
+http://89.104.114.18:8080/konniy_mir/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кто есть кто
+http://89.104.114.18:8080/kto-est-kto/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кухня ТВ
+http://89.104.114.18:8080/kuhnya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",КВН ТВ
+http://89.104.114.18:8080/kvn_tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кино ТВ
+http://89.104.114.18:8080/kino-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Лен ТВ 24
+http://89.104.114.18:8080/lot/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мир
+http://89.104.114.18:8080/mir/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мужское кино
+http://89.104.114.18:8080/muzhskoe-kino_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Русский детектив
+http://89.104.114.18:8080/rus-detective/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Русский роман
+http://89.104.114.18:8080/rus-roman/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мосфильм. Золотая коллекция
+http://89.104.114.18:8080/mosfilm/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Москва 24
+http://89.104.114.18:8080/moskva_24/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Наша тема HD
+http://89.104.114.18:8080/nasha_tema_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Ностальгия
+http://89.104.114.18:8080/nostalgia/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",НСТ
+http://89.104.114.18:8080/nstv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",О!
+http://89.104.114.18:8080/o_/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Поехали!
+http://89.104.114.18:8080/ort/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ОТР
+http://89.104.114.18:8080/otr/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Зоо ТВ
+http://89.104.114.18:8080/zoo_tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Победа
+http://89.104.114.18:8080/pobeda/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Победа HD
+http://89.104.114.18:8080/pobeda_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Поехали!
+http://89.104.114.18:8080/Poehali/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Кинопремьера HD
+http://89.104.114.18:8080/premiera/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Просвещение
+http://89.104.114.18:8080/prosveshenie/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Пятница
+http://89.104.114.18:8080/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Пятница HD
+http://89.104.114.18:8080/pyatnica_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Gags Network
+http://89.104.114.18:8080/raz-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",РБК
+http://89.104.114.18:8080/rbc/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Rt doc HD
+http://89.104.114.18:8080/rtdoc_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Сарафан
+http://89.104.114.18:8080/sarafan/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Старт HD
+http://89.104.114.18:8080/start_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",СТС
+http://89.104.114.18:8080/sts/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",СТС HD
+http://89.104.114.18:8080/sts_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",СТС Love
+http://89.104.114.18:8080/sts-love/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Суббота
+http://89.104.114.18:8080/super/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Телекафе
+http://89.104.114.18:8080/telecafe/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Теледом
+http://89.104.114.18:8080/teledom_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Тномер
+http://89.104.114.18:8080/tnomer/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",TV1000 Русское кино
+http://89.104.114.18:8080/tv1000rus/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТВ3
+http://89.104.114.18:8080/tv3/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТВ3 HD
+http://89.104.114.18:8080/tv3_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Ю
+http://89.104.114.18:8080/utv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Время
+http://89.104.114.18:8080/vremya/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Индия
+http://89.104.114.18:8080/zee-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Звезда
+http://89.104.114.18:8080/zvezda/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Звезда плюс HD
+http://89.104.114.18:8080/zvezda_plus_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",1HD
+http://89.104.114.18:8080/1hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",AIVA HD
+http://89.104.114.18:8080/aiva_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Ля-Минор
+http://89.104.114.18:8080/la-minor/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Russian Musicbox
+http://89.104.114.18:8080/music-box-ru/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Музыка первого
+http://89.104.114.18:8080/muz-pervogo/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",RU.TV
+http://89.104.114.18:8080/ru-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bridge TV Classic
+http://89.104.114.18:8080/topsong/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bridge Русский Хит
+http://89.104.114.18:8080/rusong/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bridge TV Hits
+http://89.104.114.18:8080/dange/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",ТНТ Music
+http://89.104.114.18:8080/a-one/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bridge HD
+http://89.104.114.18:8080/bridge_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Bridge TV
+http://89.104.114.18:8080/bridge-tv/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мультимузыка
+http://89.104.114.18:8080/strana/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",СТС Kids
+http://89.104.114.18:8080/sts_kids/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Рыжий
+http://89.104.114.18:8080/ryzhiy/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Карусель
+http://89.104.114.18:8080/karusel/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Уникум
+http://89.104.114.18:8080/detskiy/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Бобёр
+http://89.104.114.18:8080/bober/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Ani
+http://89.104.114.18:8080/ani/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Солнце
+http://89.104.114.18:8080/disney/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мульт
+http://89.104.114.18:8080/mult/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мультимания
+http://89.104.114.18:8080/multimania/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Супергерои
+http://89.104.114.18:8080/malish/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мама
+http://89.104.114.18:8080/mama/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Мульт HD
+http://89.104.114.18:8080/thlum_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Арена
+http://89.104.114.18:8080/arena/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Арена HD
+http://89.104.114.18:8080/arena_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Телеканал Футбол HD
+http://89.104.114.18:8080/football/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Футбол 1 HD
+http://89.104.114.18:8080/football1_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Футбол 2 HD
+http://89.104.114.18:8080/football2_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Футбол 3 HD
+http://89.104.114.18:8080/football3_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч ТВ
+http://89.104.114.18:8080/match/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч ТВ HD
+http://89.104.114.18:8080/match_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Игра HD
+http://89.104.114.18:8080/match_igra_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч! Игра
+http://89.104.114.18:8080/match-igra/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Моторспорт ТВ
+http://89.104.114.18:8080/motorsport/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч Премьер HD
+http://89.104.114.18:8080/nash_football_hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Матч Премьер
+http://89.104.114.18:8080/nash-football/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Русский экстрим HD
+http://89.104.114.18:8080/rus-extrim-hd/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",Русский экстрим
+http://89.104.114.18:8080/rus-extrim/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",KHL HD
+http://89.104.114.18:8080/khl/index.m3u8
+#EXTINF:-1 group-title="MEDIAOPERATOR-AS",KHL Prime
+http://89.104.114.18:8080/khl_hd/index.m3u8
+
+
+
+
+
+
