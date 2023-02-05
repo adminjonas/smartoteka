@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 
-#EXTINF:-1  tvg-logo="http://sh2854204.b.had.su/zz-clear.png",Здравствуйте!
-http://sh2854204.b.had.su/zz/Zdravstvuyte.m3u8
-#EXTINF:-1 tvg-logo="https://vecher-solovev.ru/wp-content/uploads/2021/07/1507solovev-live.jpg",Соловьев Live HD
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=playlist.m3u8
+
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
