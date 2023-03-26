@@ -47,167 +47,162 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ПЕРВЫЙ КАНАЛ
-http://31.210.208.167:80/1kanal/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",РОССИЯ 1
-http://31.210.208.167:80/russia1/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",Россия К
-http://31.210.208.167:80/russiak/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",РОССИЯ 24
-http://31.210.208.167:80/russia24/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ТНТ4
-http://31.210.208.167:80/tnt4/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ТНТ
-http://31.210.208.167:80/tnt/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ТНТ HD
-http://31.210.208.167:80/tnt_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",НТВ
-http://31.210.208.167:80/ntv/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",РЕН ТВ
-http://31.210.208.167:80/ren/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",TERRA
-http://31.210.208.167:80/nat_geo/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МОЯ ПЛАНЕТА
-http://31.210.208.167:80/myplanet/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МОЯ ПЛАНЕТА HD
-http://31.210.208.167:80/planeta_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",RTG TV
-http://31.210.208.167:80/rtg/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",RTG HD
-http://31.210.208.167:80/rtg_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ИСТОРИЯ
-http://31.210.208.167:80/istoriya/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ФЕНИКС
-http://31.210.208.167:80/fenixkino/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",.RED
-http://31.210.208.167:80/set/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ДОМ КИНО
-http://31.210.208.167:80/domkino/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КИНОУЖАС
-http://31.210.208.167:80/kinouzhas/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КИНОСЕРИЯ
-http://31.210.208.167:80/kinoseriya/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МУЖСКОЕ КИНО
-http://31.210.208.167:80/muzhskoekino/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",НАШЕ НОВОЕ КИНО
-http://31.210.208.167:80/nashe_novoe_kino/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КИНОМИКС
-http://31.210.208.167:80/kinomix/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КИНОПОКАЗ
-http://31.210.208.167:80/kinopokaz/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ЕВРОКИНО
-http://31.210.208.167:80/evrokino/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",НСТ
-http://31.210.208.167:80/nst/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",SHOT TV
-http://31.210.208.167:80/shottv/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ИЛЛЮЗИОН+
-http://31.210.208.167:80/illuzion_plus/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",TV XXI
-http://31.210.208.167:80/xxi/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",Cinema
-http://31.210.208.167:80/cinema/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КИНО ТВ
-http://31.210.208.167:80/kinotv/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КИНЕКО
-http://31.210.208.167:80/fox/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",FAN
-http://31.210.208.167:80/fan/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ДОРАМА
-http://31.210.208.167:80/dorama/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",НОСТАЛЬГИЯ
-http://31.210.208.167:80/nostalgiya/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ЖАРА
-http://31.210.208.167:80/jara/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КВН
-http://31.210.208.167:80/kvn/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",САРАФАН
-http://31.210.208.167:80/sarafan/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",АВТО 24
-http://31.210.208.167:80/auto24/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",БЕЛАРУСЬ 24
-http://31.210.208.167:80/belarus24/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КТО ЕСТЬ КТО
-http://31.210.208.167:80/ktoestkto/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ДОМАШНИЙ
-http://31.210.208.167:80/home/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",8 КАНАЛ
-http://31.210.208.167:80/8kanal/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",RT DOC HD
-http://31.210.208.167:80/rtdoc_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",365 ДНЕЙ
-http://31.210.208.167:80/365day/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КРАСНАЯ ЛИНИЯ
-http://31.210.208.167:80/krasnayaliniya/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ТНОМЕР
-http://31.210.208.167:80/tnomer/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",СТС Love
-http://31.210.208.167:80/stslove/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ОТР
-http://31.210.208.167:80/otr/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",РБК
-http://31.210.208.167:80/rbk/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ЗВЕЗДА
-http://31.210.208.167:80/zvezda/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",СТС
-http://31.210.208.167:80/sts/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",2x2
-http://31.210.208.167:80/2x2/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ТВ3
-http://31.210.208.167:80/tv3/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",СПАС
-http://31.210.208.167:80/spas/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",5 КАНАЛ
-http://31.210.208.167:80/5kanal/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ZOO ТВ
-http://31.210.208.167:80/zootv/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ЧЕ
-http://31.210.208.167:80/che/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",Ю
-http://31.210.208.167:80/u/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ТВЦ
-http://31.210.208.167:80/tvc/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ТЕЛЕКАФЕ
-http://31.210.208.167:80/telecafe/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",СУПЕРГЕРОИ
-http://31.210.208.167:80/malysh/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",TIJI
-http://31.210.208.167:80/tiji/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ANI
-http://31.210.208.167:80/ani/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",КАРУСЕЛЬ
-http://31.210.208.167:80/karusel/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МАМА
-http://31.210.208.167:80/mama/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",СОЛНЦЕ
-http://31.210.208.167:80/disney/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МУЛЬТИМАНИЯ
-http://31.210.208.167:80/multimania/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МУЛЬТ HD
-http://31.210.208.167:80/mult/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",1HD
-http://31.210.208.167:80/1hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МУЗ ТВ
-http://31.210.208.167:80/muztv/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ШАНСОН ТВ
-http://31.210.208.167:80/shanson/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",О2 HD
-http://31.210.208.167:80/o2/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",Европа Плюс ТВ
-http://31.210.208.167:80/europaplus/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",ФУТБОЛ HD
-http://31.210.208.167:80/football/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",KHL
-http://31.210.208.167:80/khl/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",БОКС ТВ
-http://31.210.208.167:80/box_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МОТОРСПОРТ ТВ
-http://31.210.208.167:80/motorsport/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",МАТЧ HD
-http://31.210.208.167:80/match_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",Матч! БОЕЦ
-http://31.210.208.167:80/boec/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",Матч! Матч арена
-http://31.210.208.167:80/match_arena/index.m3u8?token=test
-#EXTINF:-1 group-title="Квант-Телеком (VPN)",Матч! Матч игра
-http://31.210.208.167:80/matc_igra_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10532.png", Coup de Coeur Online
+http://fs2.persik.by/387381/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10603.png", ATESTA
+http://fs2.persik.by/394996/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10607.png", Андрей Сенькевич
+http://fs2.persik.by/394999/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10684.png", Биография HD
+http://fs1.persik.by/408974/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10690.png", История HD
+http://fs1.persik.by/409114/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10699.png", Мелодрама HD
+http://fs1.persik.by/409118/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10707.png", Приключения HD
+http://fs1.persik.by/409119/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10710.png", Семья HD
+http://fs1.persik.by/409122/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10714.png", Ужасы HD
+http://fs1.persik.by/409128/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10739.png", Документальное HD
+http://fs1.persik.by/409112/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10740.png", Фестивальное кино HD
+http://fs1.persik.by/482900/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10748.png", Мультсериалы HD
+http://fs1.persik.by/447816/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10754.png", Экранизации HD
+http://fs2.persik.by/447587/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10971.png", Sluhay.by ROCK
+http://fs2.persik.by/476991/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/10974.png", Sluhay.by RAP
+http://fs2.persik.by/477426/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11018.png", Топ кино HD
+http://fs1.persik.by/482444/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11024.png", Популярное кино HD
+http://fs1.persik.by/482801/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11027.png", Новинки HD
+http://fs1.persik.by/482832/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11033.png", Мульт сериал HD
+http://fs1.persik.by/483279/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11037.png", Кино Микс HD
+http://fs1.persik.by/483444/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11045.png", Фильмы приключения HD
+http://fs1.persik.by/483816/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11064.png", Детские мультики
+http://fs1.persik.by/484215/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11083.png", Sluhay.by MOVA
+http://fs2.persik.by/486041/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11084.png", Ван Дамм
+http://fs1.persik.by/486001/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11085.png", Мерзликин
+http://fs1.persik.by/486233/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11101.png", Aillion
+http://fs2.persik.by/486707/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11102.png", Sluhay.by COVER
+http://fs2.persik.by/486668/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11109.png", The Glitchhh
+http://fs2.persik.by/486892/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11122.png", Чиповская
+http://fs1.persik.by/487169/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11124.png", XTIP
+http://fs2.persik.by/487602/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11125.png", Lenadi
+http://fs2.persik.by/487598/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11126.png", Christ
+http://fs2.persik.by/487600/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11127.png", Among Your Gods
+http://fs2.persik.by/487678/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11128.png", Аниме
+http://fs1.persik.by/487612/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11129.png", Зарубежное кино
+http://fs1.persik.by/487672/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11131.png", Семейные фильмы
+http://fs1.persik.by/487750/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11132.png", Экшн-фильмы
+http://fs1.persik.by/487969/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11136.png", Романтические фильмы 
+http://fs1.persik.by/488227/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11167.png", Военные фильмы HD
+http://fs1.persik.by/489152/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11213.png", Кино-антистресс
+http://fs2.persik.by/485815/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11218.png", Поп Наука
+http://fs2.persik.by/476225/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11229.png", Megakip MK
+http://fs2.persik.by/488212/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11231.png", Коктейль Шаляпина
+http://fs2.persik.by/405074/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11232.png", Demi Mo
+http://fs2.persik.by/410229/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11233.png", Гурт Раница
+http://fs2.persik.by/405076/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11234.png", Нямiга
+http://fs2.persik.by/446283/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11235.png", Cotton Buds
+http://fs2.persik.by/394994/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11236.png", Американские комедии
+http://fs1.persik.by/394997/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11237.png", Комедийные боевики
+http://fs1.persik.by/394995/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11238.png", Etsinancy
+http://fs2.persik.by/394992/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11240.png", Lear
+http://fs2.persik.by/394991/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11241.png", M J Rock Band
+http://fs2.persik.by/462400/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11242.png", Шпионы и разведчики
+http://fs1.persik.by/447124/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11256.png", Проект "Юго-Запд"
+http://fs2.persik.by/462866/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11258.png", Зеленахвостыя
+http://fs2.persik.by/394983/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11262.png", Английские субтитры
+http://fs2.persik.by/460333/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11263.png", Версия
+http://fs2.persik.by/439402/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11265.png", Психологические ужасы
+http://fs2.persik.by/462720/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11266.png", Кино выходного дня
+http://fs1.persik.by/389396/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11271.png", Зомби-апокалипсис
+http://fs1.persik.by/462723/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11272.png", Вторая мировая
+http://fs1.persik.by/462722/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11274.png", Комедийные сериалы
+http://fs1.persik.by/394447/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11275.png", Новые комедии
+http://fs1.persik.by/396985/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11276.png", Триллеры и Драма
+http://fs2.persik.by/396982/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11278.png", Путешествие во времени
+http://fs1.persik.by/462737/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11290.png", История кратко
+http://fs2.persik.by/395002/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11294.png", Всё о мозге
+http://fs2.persik.by/393802/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11296.png", Учим English
+http://fs2.persik.by/405070/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11297.png", Сказки Eng
+http://fs2.persik.by/487432/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11300.png", Живое слово
+http://fs2.persik.by/476231/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11303.png", Мир на ладони
+http://fs2.persik.by/410219/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11304.png", Голос Мудрости
+http://fs2.persik.by/487431/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11307.png", PRO Питание
+http://fs2.persik.by/464782/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11308.png", ПОП Психология
+http://fs2.persik.by/405064/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11309.png", Выпечка
+http://fs2.persik.by/466202/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11310.png", ПП Десерты
+http://fs2.persik.by/450854/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11311.png", Healthy Food
+http://fs2.persik.by/488215/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/11313.png", Большой завтрак
+http://fs2.persik.by/488213/index.m3u8
+#EXTINF:-1 group-title="Persik" tvg-logo="https://persik.by/media/channels/logos/99998.png", Radio Metal
+http://myradio24.org/radiometal_video.m3u8
+
