@@ -70,281 +70,186 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",TVOE TV HD 
 http://stream1.servers.chd-tv.tk:80/Tvoe_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/tvoyo-tv-hd.png" tvg-id="tvoetv",Твоё ТВ юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
-#EXTINF:0,ОНТ
-http://persik.by/stream/1832/161161/111.m3u8
-#EXTINF:0,ОНТ HD
-http://persik.by/stream/1832/161161/10409.m3u8
-#EXTINF:0,Amedia Hit
-http://persik.by/stream/1832/161161/895.m3u8
-#EXTINF:0,Amedia Premium
-http://persik.by/stream/1832/161161/643.m3u8
-#EXTINF:0,Ru.TV
-http://persik.by/stream/1832/161161/10261.m3u8
-#EXTINF:0,STV
-http://persik.by/stream/1832/161161/10286.m3u8
-#EXTINF:0,Беларусь 1
-http://persik.by/stream/1832/161161/118.m3u8
-#EXTINF:0,Беларусь 1 HD
-http://persik.by/stream/1832/161161/10405.m3u8
-#EXTINF:0,Беларусь 2
-http://persik.by/stream/1832/161161/148.m3u8
-#EXTINF:0,Еврокино
-http://persik.by/stream/1832/161161/10222.m3u8
-#EXTINF:0,Звезда 
-http://persik.by/stream/1832/161161/10220.m3u8
-#EXTINF:0,Матч!
-http://persik.by/stream/1832/161161/276.m3u8
-#EXTINF:0,МАТЧ! Арена
-http://persik.by/stream/1832/161161/10269.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD 
-http://persik.by/stream/1832/161161/10267.m3u8
-#EXTINF:0,Наш футбол
-http://persik.by/stream/1832/161161/10264.m3u8
-#EXTINF:0,Пятница 
-http://persik.by/stream/1832/161161/178.m3u8
-#EXTINF:0,ТНТ 
-http://persik.by/stream/1832/161161/981.m3u8
-#EXTINF:0,ТНТ int 
-http://persik.by/stream/1832/161161/64.m3u8
-#EXTINF:0,Беларусь 24
-http://persik.by/stream/1832/161161/10200.m3u8
-#EXTINF:0,РТР-Беларусь
-http://persik.by/stream/1832/161161/700.m3u8
-#EXTINF:0,НТВ-Беларусь
-http://persik.by/stream/1832/161161/699.m3u8
-#EXTINF:0,СТВ
-http://persik.by/stream/1832/161161/115.m3u8
-#EXTINF:0,Беларусь 3
-http://persik.by/stream/1832/161161/883.m3u8
-#EXTINF:0,Беларусь 5
-http://persik.by/stream/1832/161161/932.m3u8
-#EXTINF:0,МИР
-http://persik.by/stream/1832/161161/176.m3u8
-#EXTINF:0,.red
-http://persik.by/stream/1832/161161/11211.m3u8
-#EXTINF:0,365 дней ТВ
-http://persik.by/stream/1832/161161/279.m3u8
-#EXTINF:0,5 канал (Россия)
-http://persik.by/stream/1832/161161/308.m3u8
-#EXTINF:0,Amedia 1
-http://persik.by/stream/1832/161161/10380.m3u8
-#EXTINF:0,Amedia 2
-http://persik.by/stream/1832/161161/11360.m3u8
-#EXTINF:0,black
-http://persik.by/stream/1832/161161/11196.m3u8
-#EXTINF:0,Bridge TV
-http://persik.by/stream/1832/161161/409.m3u8
-#EXTINF:0,Bridge TV Русский хит
-http://persik.by/stream/1832/161161/668.m3u8
-#EXTINF:0,Da Vinci Kids
-http://persik.by/stream/1832/161161/11222.m3u8
-#EXTINF:0,Disney
-http://persik.by/stream/1832/161161/11195.m3u8
-#EXTINF:0,Euronews (eng)
-http://persik.by/stream/1832/161161/11192.m3u8
-#EXTINF:0,Europa Plus TV
-http://persik.by/stream/1832/161161/682.m3u8
-#EXTINF:0,FOX
-http://persik.by/stream/1832/161161/10234.m3u8
-#EXTINF:0,Gulli Girl
-http://persik.by/stream/1832/161161/596.m3u8
-#EXTINF:0,HD Life
-http://persik.by/stream/1832/161161/10295.m3u8
-#EXTINF:0,Luxuary HD
-http://persik.by/stream/1832/161161/11372.m3u8
-#EXTINF:0,National Geographic HD
-http://persik.by/stream/1832/161161/10243.m3u8
-#EXTINF:0,TiJi 
-http://persik.by/stream/1832/161161/597.m3u8
-#EXTINF:0,Travel+Adventure
-http://persik.by/stream/1832/161161/832.m3u8
-#EXTINF:0,TV 1000
-http://persik.by/stream/1832/161161/10237.m3u8
-#EXTINF:0,TV 1000 Action
-http://persik.by/stream/1832/161161/10238.m3u8
-#EXTINF:0,TV 1000 Русское кино
-http://persik.by/stream/1832/161161/10236.m3u8
-#EXTINF:0,Viasat Explorer
-http://persik.by/stream/1832/161161/10280.m3u8
-#EXTINF:0,Viasat History
-http://persik.by/stream/1832/161161/10278.m3u8
-#EXTINF:0,Viasat Nature
-http://persik.by/stream/1832/161161/10279.m3u8
-#EXTINF:0,Viasat Nature/History HD
-http://persik.by/stream/1832/161161/10394.m3u8
-#EXTINF:0,Viasat Sport
-http://persik.by/stream/1832/161161/10277.m3u8
-#EXTINF:0,Авто Плюс
-http://persik.by/stream/1832/161161/311.m3u8
-#EXTINF:0,Беларусь 2 HD
-http://persik.by/stream/1832/161161/10406.m3u8
-#EXTINF:0,Беларусь 3 HD
-http://persik.by/stream/1832/161161/10407.m3u8
-#EXTINF:0,Беларусь 5 HD
-http://persik.by/stream/1832/161161/10408.m3u8
-#EXTINF:0,Бокс ТВ
-http://persik.by/stream/1832/161161/10948.m3u8
-#EXTINF:0,В гостях у сказки
-http://persik.by/stream/1832/161161/10945.m3u8
-#EXTINF:0,Время
-http://persik.by/stream/1832/161161/11201.m3u8
-#EXTINF:0,Доктор
-http://persik.by/stream/1832/161161/11221.m3u8
-#EXTINF:0,Дом кино
-http://persik.by/stream/1832/161161/302.m3u8
-#EXTINF:0,Домашние животные
-http://persik.by/stream/1832/161161/601.m3u8
-#EXTINF:0,Домашний
-http://persik.by/stream/1832/161161/124.m3u8
-#EXTINF:0,Живи!
-http://persik.by/stream/1832/161161/511.m3u8
-#EXTINF:0,Известия
-http://persik.by/stream/1832/161161/11197.m3u8
-#EXTINF:0,Иллюзион+
-http://persik.by/stream/1832/161161/327.m3u8
-#EXTINF:0,Индийское кино
-http://persik.by/stream/1832/161161/11002.m3u8
-#EXTINF:0,История
-http://persik.by/stream/1832/161161/11220.m3u8
-#EXTINF:0,Карусель
-http://persik.by/stream/1832/161161/687.m3u8
-#EXTINF:0,КВН ТВ
-http://persik.by/stream/1832/161161/10949.m3u8
-#EXTINF:0,Кино ТВ
-http://persik.by/stream/1832/161161/11212.m3u8
-#EXTINF:0,Кинокомедия
-http://persik.by/stream/1832/161161/292.m3u8
-#EXTINF:0,Киномикс
-http://persik.by/stream/1832/161161/608.m3u8
-#EXTINF:0,Кинопремьера
-http://persik.by/stream/1832/161161/34.m3u8
-#EXTINF:0,Кинопремьера HD
-http://persik.by/stream/1832/161161/10240.m3u8
-#EXTINF:0,Киносвидание
-http://persik.by/stream/1832/161161/30.m3u8
-#EXTINF:0,Киносемья
-http://persik.by/stream/1832/161161/590.m3u8
-#EXTINF:0,Киносерия
-http://persik.by/stream/1832/161161/278.m3u8
-#EXTINF:0,Кинохит
-http://persik.by/stream/1832/161161/213.m3u8
-#EXTINF:0,Комедия
-http://persik.by/stream/1832/161161/11210.m3u8
-#EXTINF:0,Кто есть кто
-http://persik.by/stream/1832/161161/399.m3u8
-#EXTINF:0,Культура
-http://persik.by/stream/1832/161161/15.m3u8
-#EXTINF:0,Кухня ТВ
-http://persik.by/stream/1832/161161/383.m3u8
-#EXTINF:0,КХЛ HD
-http://persik.by/stream/1832/161161/10242.m3u8
-#EXTINF:0,КХЛ ТВ
-http://persik.by/stream/1832/161161/604.m3u8
-#EXTINF:0,Любимое Кино
-http://persik.by/stream/1832/161161/10452.m3u8
-#EXTINF:0,Ля Минор
-http://persik.by/stream/1832/161161/11004.m3u8
-#EXTINF:0,Матч Планета
-http://persik.by/stream/1832/161161/11373.m3u8
-#EXTINF:0,Матч! HD
-http://persik.by/stream/1832/161161/11371.m3u8
-#EXTINF:0,Матч! Игра
-http://persik.by/stream/1832/161161/11193.m3u8
-#EXTINF:0,Матч! Наш спорт
-http://persik.by/stream/1832/161161/11194.m3u8
-#EXTINF:0,Матч! Футбол 1
-http://persik.by/stream/1832/161161/11188.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 1 HD 
-http://persik.by/stream/1832/161161/10266.m3u8
-#EXTINF:0,Матч! Футбол 2
-http://persik.by/stream/1832/161161/11189.m3u8
-#EXTINF:0,Матч! Футбол 3
-http://persik.by/stream/1832/161161/11190.m3u8
-#EXTINF:0,МИР HD
-http://persik.by/stream/1832/161161/10283.m3u8
-#EXTINF:0,Мир сериала
-http://persik.by/stream/1832/161161/10451.m3u8
-#EXTINF:0,Мосфильм
-http://persik.by/stream/1832/161161/11198.m3u8
-#EXTINF:0,Моя планета
-http://persik.by/stream/1832/161161/639.m3u8
-#EXTINF:0,Муви ТВ
-http://persik.by/stream/1832/161161/11208.m3u8
-#EXTINF:0,Мужское кино
-http://persik.by/stream/1832/161161/10025.m3u8
-#EXTINF:0,Мужское кино HD
-http://persik.by/stream/1832/161161/10368.m3u8
-#EXTINF:0,Музыка Первого
-http://persik.by/stream/1832/161161/11202.m3u8
-#EXTINF:0,Мульт
-http://persik.by/stream/1832/161161/962.m3u8
-#EXTINF:0,Мультиландия
-http://persik.by/stream/1832/161161/286.m3u8
-#EXTINF:0,Нано ТВ
-http://persik.by/stream/1832/161161/10230.m3u8
-#EXTINF:0,Наука
-http://persik.by/stream/1832/161161/712.m3u8
-#EXTINF:0,Наше новое кино
-http://persik.by/stream/1832/161161/260.m3u8
-#EXTINF:0,Ностальгия
-http://persik.by/stream/1832/161161/11003.m3u8
-#EXTINF:0,НТВ
-http://persik.by/stream/1832/161161/10730.m3u8
-#EXTINF:0,НТВ-Беларусь HD
-http://persik.by/stream/1832/161161/11183.m3u8
-#EXTINF:0,Охота и рыбалка
-http://persik.by/stream/1832/161161/243.m3u8
-#EXTINF:0,Перец International
-http://persik.by/stream/1832/161161/10273.m3u8
-#EXTINF:0,Победа
-http://persik.by/stream/1832/161161/11209.m3u8
-#EXTINF:0,Поехали!
-http://persik.by/stream/1832/161161/11204.m3u8
-#EXTINF:0,Радость моя
-http://persik.by/stream/1832/161161/10272.m3u8
-#EXTINF:0,РБК ТВ
-http://persik.by/stream/1832/161161/146.m3u8
-#EXTINF:0,РЕН ТВ 
-http://persik.by/stream/1832/161161/13.m3u8
-#EXTINF:0,Родное кино
-http://persik.by/stream/1832/161161/312.m3u8
-#EXTINF:0,Россия 1 
-http://persik.by/stream/1832/161161/9.m3u8
-#EXTINF:0,Россия 24 
-http://persik.by/stream/1832/161161/328.m3u8
-#EXTINF:0,РТР-Беларусь HD
-http://persik.by/stream/1832/161161/11182.m3u8
-#EXTINF:0,Русская ночь
-http://persik.by/stream/1832/161161/10326.m3u8
-#EXTINF:0,Русский иллюзион
-http://persik.by/stream/1832/161161/177.m3u8
-#EXTINF:0,Сапфир
-http://persik.by/stream/1832/161161/11369.m3u8
-#EXTINF:0,Союз
-http://persik.by/stream/1832/161161/235.m3u8
-#EXTINF:0,СТВ HD
-http://persik.by/stream/1832/161161/10410.m3u8
-#EXTINF:0,СТС
-http://persik.by/stream/1832/161161/11199.m3u8
-#EXTINF:0,СТС Kids HD 
-http://persik.by/stream/1832/161161/10942.m3u8
-#EXTINF:0,ТВ-3
-http://persik.by/stream/1832/161161/63.m3u8
-#EXTINF:0,ТВ-3 Беларусь
-http://persik.by/stream/1832/161161/847.m3u8
-#EXTINF:0,Телеканал О!
-http://persik.by/stream/1832/161161/11205.m3u8
-#EXTINF:0,ТНТ Music
-http://persik.by/stream/1832/161161/10247.m3u8
-#EXTINF:0,Точка отрыва
-http://persik.by/stream/1832/161161/11370.m3u8
-#EXTINF:0,Уникум
-http://persik.by/stream/1832/161161/246.m3u8
-#EXTINF:0,Усадьба
-http://persik.by/stream/1832/161161/305.m3u8
-#EXTINF:0,Футбол
-http://persik.by/stream/1832/161161/440.m3u8
-#EXTINF:0,Эгоист ТВ
-http://persik.by/stream/1832/161161/10002.m3u8
+
+#EXTINF:-1 group-title="Silknet",ПЕРВЫЙ КАНАЛ
+https://tbs01-edge11.itdc.ge/ort/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",РЕН ТВ
+https://tbs01-edge11.itdc.ge/rentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",НТВ МИР
+https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",РОССИЯ К
+https://tbs01-edge11.itdc.ge/russiaculture/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",РТР ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/rtr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",МОЯ ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/myplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ОХОТА И РЫБАЛКА
+https://tbs01-edge11.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ЖИВАЯ ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/liveplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Viasat Explore
+https://tbs01-edge11.itdc.ge/viasatexp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Viasat History
+https://tbs01-edge11.itdc.ge/viasathist/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Travel+Adventure
+https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",НАУКА
+https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ИСТОРИЯ
+https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",HD Life
+https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",VIP HIT
+https://tbs01-edge11.itdc.ge/healthtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",VIP FAMILY
+https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",TV1000 Русское кино
+https://tbs01-edge11.itdc.ge/tv1000rukino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",TV1000
+https://tbs01-edge11.itdc.ge/tv1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",TV1000 ACTION
+https://tbs01-edge11.itdc.ge/tv1000act/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Amedia 1
+https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Amedia 2
+https://tbs01-edge11.itdc.ge/tv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Cinema
+https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ДОМ КИНО
+https://tbs01-edge11.itdc.ge/domkino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ДОМ КИНО ПРЕМИУМ
+https://tbs01-edge11.itdc.ge/domkinopremium/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",РЕТРО
+https://tbs01-edge11.itdc.ge/retro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",РУССКИЙ ИЛЛЮЗИОН
+https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ИЛЛЮЗИОН+
+https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",МУЖСКОЕ КИНО
+https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Кинопремьера HD
+https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",МИР СЕРИАЛА
+https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Киносерия
+https://tbs01-edge11.itdc.ge/kinoseria/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ИНДИЙСКОЕ КИНО
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",КИНОХИТ
+https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Киноужас
+https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Hollywood HD
+https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",НСТ
+https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ЕВРОКИНО
+https://tbs01-edge11.itdc.ge/eurokino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ИНДИЯ
+https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ФЕНИКС+КИНО 
+https://tbs01-edge11.itdc.ge/fenixkino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",FilmBox Arthouse
+https://tbs01-edge11.itdc.ge/filmboxarthouse/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",FilmBox
+https://tbs01-edge11.itdc.ge/filmbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",24 ТЕХНО
+https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",АВТО ПЛЮС
+https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",АВТО 24
+https://tbs01-edge11.itdc.ge/auto24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ДРАЙВ
+https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",УСАДЬБА
+https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",365 ДНЕЙ
+https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ОРУЖИЕ
+https://tbs01-edge11.itdc.ge/oruzhie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ЗООПАРК
+https://tbs01-edge11.itdc.ge/zoo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",КТО ЕСТЬ КТО
+https://tbs01-edge11.itdc.ge/ktoestkto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",КУХНЯ ТВ
+https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ТЕЛЕКАФЕ
+https://tbs01-edge11.itdc.ge/telecafe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",RTVI
+https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ДОМАШНИЙ
+https://tbs01-edge11.itdc.ge/domashni/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ПЯТНИЦА
+https://tbs01-edge11.itdc.ge/friday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",САРАФАН
+https://tbs01-edge11.itdc.ge/sarafan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ПЕРЕЦ
+https://tbs01-edge11.itdc.ge/perec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",СТС
+https://tbs01-edge11.itdc.ge/ctctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ТВЦ
+https://tbs01-edge11.itdc.ge/tvc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",МИР 24
+https://tbs01-edge11.itdc.ge/mir24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",МИР
+https://tbs01-edge11.itdc.ge/mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",English Club TV
+https://tbs01-edge11.itdc.ge/engclub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",DocuBox HD
+https://tbs01-edge11.itdc.ge/docuboxhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",FashionBox
+https://tbs01-edge11.itdc.ge/fashionbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Fashion TV
+https://tbs01-edge11.itdc.ge/fasiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",360tunebox
+https://tbs01-edge11.itdc.ge/360tunebox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ТНТ Music
+https://tbs01-edge11.itdc.ge/rutv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ЛЯ-МИНОР
+https://tbs01-edge11.itdc.ge/liaminortv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet", Russian music box
+https://tbs01-edge11.itdc.ge/musicboxru/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",9 ВОЛНА
+https://tbs01-edge11.itdc.ge/9volna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Abkhaz HD
+https://tbs01-edge11.itdc.ge/abkhaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Egrisi TV
+https://tbs01-edge11.itdc.ge/egrisitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Nwbctv
+https://tbs01-edge11.itdc.ge/nwbctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Stereoplus
+https://tbs01-edge11.itdc.ge/stereoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Music Box
+https://tbs01-edge11.itdc.ge/musicbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Music TV HD
+https://tbs01-edge11.itdc.ge/musictv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",НОСТАЛЬГИЯ
+https://tbs01-edge11.itdc.ge/nostalgy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ШАНСОН ТВ
+https://tbs01-edge11.itdc.ge/shanson/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Da Vinci
+https://tbs01-edge11.itdc.ge/davinci/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",ДЕТСКИЙ МИР
+https://tbs01-edge11.itdc.ge/detskymir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",МУЛЬТ
+https://tbs01-edge11.itdc.ge/multtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",УНИКУМ
+https://tbs01-edge11.itdc.ge/detsky/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",КАРУСЕЛЬ
+https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",Viasat Sport
+https://tbs01-edge11.itdc.ge/viasatsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",БОКС ТВ
+https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",MMA-TV.COM
+https://tbs01-edge11.itdc.ge/m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",FightBox
+https://tbs01-edge11.itdc.ge/fightboxhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Silknet",МАТЧ! ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/matchplaneta/tracks-v1a1/mono.m3u8
+
+
