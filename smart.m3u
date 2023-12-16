@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
-http://europe3.livetv.az/russia/rossiya_1/chunks.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png",Россия 24
 https://ucdn.beetv.kz/btv/live/hls/000000198.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/162.png",НТВ HD
